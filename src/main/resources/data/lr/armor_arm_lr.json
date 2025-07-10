@@ -1,0 +1,2045 @@
+[
+  {
+    "armor_index": 0,
+    "name": "Kamura Braces",
+    "skills": [
+      {
+        "skill_id": 90,
+        "level": 1
+      }
+    ],
+    "defense": 1,
+    "resistances": {
+      "fire": 1,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 1,
+    "series": 0,
+    "sexual_equipable": "Both",
+    "buildup_table": 0,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 2,
+    "name": "Leather Gloves",
+    "skills": [
+      {
+        "skill_id": 79,
+        "level": 1
+      }
+    ],
+    "defense": 1,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 1,
+    "series": 2,
+    "sexual_equipable": "Both",
+    "buildup_table": 0,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 4,
+    "name": "Chainmail Gloves",
+    "skills": [
+      {
+        "skill_id": 78,
+        "level": 1
+      }
+    ],
+    "defense": 4,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 1,
+      "dragon": 0
+    },
+    "rare": 1,
+    "series": 4,
+    "sexual_equipable": "Both",
+    "buildup_table": 1,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 6,
+    "name": "Hunter's Vambraces",
+    "skills": [
+      {
+        "skill_id": 39,
+        "level": 1
+      }
+    ],
+    "defense": 4,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 1,
+    "series": 6,
+    "sexual_equipable": "Both",
+    "buildup_table": 1,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 9,
+    "name": "Alloy Vambraces",
+    "skills": [
+      {
+        "skill_id": 5,
+        "level": 1
+      }
+    ],
+    "defense": 10,
+    "resistances": {
+      "fire": -1,
+      "water": 0,
+      "ice": -1,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 9,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 11,
+    "name": "Ingot Vambraces",
+    "skills": [
+      {
+        "skill_id": 15,
+        "level": 2
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": -1,
+      "water": -1,
+      "ice": 0,
+      "thunder": 1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 11,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 14,
+    "name": "Melahoa Branch",
+    "skills": [
+      {
+        "skill_id": 73,
+        "level": 1
+      },
+      {
+        "skill_id": 57,
+        "level": 1
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": 0,
+      "water": 1,
+      "ice": 0,
+      "thunder": 3,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 14,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 16,
+    "name": "Makluva Sleeves",
+    "skills": [
+      {
+        "skill_id": 96,
+        "level": 1
+      }
+    ],
+    "defense": 24,
+    "resistances": {
+      "fire": 1,
+      "water": 2,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 16,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 18,
+    "name": "Death Stench Grip",
+    "skills": [
+      {
+        "skill_id": 9,
+        "level": 1
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": 3,
+      "water": 1,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 18,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 20,
+    "name": "Mosgharl Creeper",
+    "skills": [
+      {
+        "skill_id": 77,
+        "level": 1
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": -3,
+      "water": 1,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 20,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 22,
+    "name": "Mosgharl Creeper",
+    "skills": [
+      {
+        "skill_id": 77,
+        "level": 1
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": -3,
+      "water": 1,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 22,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 24,
+    "name": "Aelucanth Brachia",
+    "skills": [
+      {
+        "skill_id": 64,
+        "level": 1
+      }
+    ],
+    "defense": 24,
+    "resistances": {
+      "fire": -2,
+      "water": 0,
+      "ice": -2,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "rare": 3,
+    "series": 24,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 26,
+    "name": "Rhopessa Brachia",
+    "skills": [
+      {
+        "skill_id": 64,
+        "level": 1
+      }
+    ],
+    "defense": 24,
+    "resistances": {
+      "fire": -2,
+      "water": 0,
+      "ice": -2,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "rare": 3,
+    "series": 26,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 28,
+    "name": "Vaik Braces",
+    "skills": [
+      {
+        "skill_id": 47,
+        "level": 1
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": 0,
+      "water": 3,
+      "ice": -1,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 28,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 30,
+    "name": "",
+    "skills": [],
+    "defense": 12,
+    "resistances": {
+      "fire": 2,
+      "water": -2,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 30,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 32,
+    "name": "Edel Creeper",
+    "skills": [
+      {
+        "skill_id": 72,
+        "level": 1
+      }
+    ],
+    "defense": 12,
+    "resistances": {
+      "fire": -1,
+      "water": 3,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 32,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 34,
+    "name": "Skalda Brachia",
+    "skills": [
+      {
+        "skill_id": 72,
+        "level": 1
+      }
+    ],
+    "defense": 12,
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "ice": -1,
+      "thunder": -1,
+      "dragon": 3
+    },
+    "rare": 2,
+    "series": 34,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 36,
+    "name": "Spio Brachia",
+    "skills": [
+      {
+        "skill_id": 72,
+        "level": 1
+      }
+    ],
+    "defense": 12,
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "ice": -1,
+      "thunder": -1,
+      "dragon": 3
+    },
+    "rare": 2,
+    "series": 36,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 38,
+    "name": "Utsushi Braces (V)",
+    "skills": [
+      {
+        "skill_id": 88,
+        "level": 1
+      }
+    ],
+    "defense": 24,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 38,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 40,
+    "name": "Channeler's Hope",
+    "skills": [
+      {
+        "skill_id": 64,
+        "level": 1
+      },
+      {
+        "skill_id": 103,
+        "level": 1
+      }
+    ],
+    "defense": 24,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 40,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 42,
+    "name": "Utsushi Braces (H)",
+    "skills": [
+      {
+        "skill_id": 64,
+        "level": 1
+      },
+      {
+        "skill_id": 103,
+        "level": 1
+      }
+    ],
+    "defense": 24,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 42,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 44,
+    "name": "Medium's Prayer",
+    "skills": [
+      {
+        "skill_id": 88,
+        "level": 1
+      }
+    ],
+    "defense": 24,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 44,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 46,
+    "name": "S. Studded Gloves",
+    "skills": [
+      {
+        "skill_id": 52,
+        "level": 1
+      }
+    ],
+    "defense": 12,
+    "resistances": {
+      "fire": 0,
+      "water": 2,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 46,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 48,
+    "name": "Jelly Gloves",
+    "skills": [
+      {
+        "skill_id": 56,
+        "level": 1
+      }
+    ],
+    "defense": 24,
+    "resistances": {
+      "fire": 1,
+      "water": 3,
+      "ice": 2,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 48,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 50,
+    "name": "Bishaten Vambraces",
+    "skills": [
+      {
+        "skill_id": 75,
+        "level": 1
+      }
+    ],
+    "defense": 22,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": -4,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "rare": 2,
+    "series": 50,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 52,
+    "name": "Aknosom Braces",
+    "skills": [
+      {
+        "skill_id": 12,
+        "level": 1
+      }
+    ],
+    "defense": 16,
+    "resistances": {
+      "fire": 3,
+      "water": -3,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 52,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 54,
+    "name": "Tetranadon Braces",
+    "skills": [
+      {
+        "skill_id": 46,
+        "level": 1
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": -1,
+      "water": 4,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 54,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 56,
+    "name": "Somnacanth Braces",
+    "skills": [
+      {
+        "skill_id": 85,
+        "level": 1
+      },
+      {
+        "skill_id": 56,
+        "level": 1
+      }
+    ],
+    "defense": 22,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": 1
+    },
+    "rare": 2,
+    "series": 56,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 60,
+    "name": "Goss Harag Braces",
+    "skills": [
+      {
+        "skill_id": 37,
+        "level": 1
+      },
+      {
+        "skill_id": 38,
+        "level": 1
+      }
+    ],
+    "defense": 30,
+    "resistances": {
+      "fire": -4,
+      "water": 1,
+      "ice": 4,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 60,
+    "sexual_equipable": "Both",
+    "buildup_table": 5,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 62,
+    "name": "Almudron Vambraces",
+    "skills": [
+      {
+        "skill_id": 106,
+        "level": 1
+      },
+      {
+        "skill_id": 64,
+        "level": 1
+      }
+    ],
+    "defense": 30,
+    "resistances": {
+      "fire": -4,
+      "water": 3,
+      "ice": -2,
+      "thunder": 3,
+      "dragon": -2
+    },
+    "rare": 3,
+    "series": 62,
+    "sexual_equipable": "Both",
+    "buildup_table": 5,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 68,
+    "name": "Izuchi Braces",
+    "skills": [
+      {
+        "skill_id": 32,
+        "level": 1
+      }
+    ],
+    "defense": 10,
+    "resistances": {
+      "fire": 2,
+      "water": -1,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 1,
+    "series": 66,
+    "sexual_equipable": "Both",
+    "buildup_table": 1,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 73,
+    "name": "",
+    "skills": [],
+    "defense": 14,
+    "resistances": {
+      "fire": -3,
+      "water": -2,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 71,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 75,
+    "name": "",
+    "skills": [],
+    "defense": 14,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "rare": 2,
+    "series": 73,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 77,
+    "name": "Rhenoplos Braces",
+    "skills": [
+      {
+        "skill_id": 44,
+        "level": 1
+      }
+    ],
+    "defense": 14,
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": -2,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 75,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 79,
+    "name": "Jaggi Gauntlets",
+    "skills": [
+      {
+        "skill_id": 0,
+        "level": 1
+      }
+    ],
+    "defense": 14,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 1,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 77,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 81,
+    "name": "Bnahabra Gloves",
+    "skills": [
+      {
+        "skill_id": 64,
+        "level": 1
+      }
+    ],
+    "defense": 14,
+    "resistances": {
+      "fire": -2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 2
+    },
+    "rare": 2,
+    "series": 79,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 83,
+    "name": "",
+    "skills": [],
+    "defense": 14,
+    "resistances": {
+      "fire": 0,
+      "water": 4,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 81,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 85,
+    "name": "Remobra Gloves",
+    "skills": [
+      {
+        "skill_id": 10,
+        "level": 1
+      },
+      {
+        "skill_id": 61,
+        "level": 1
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 2
+    },
+    "rare": 2,
+    "series": 83,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 87,
+    "name": "",
+    "skills": [],
+    "defense": 14,
+    "resistances": {
+      "fire": -2,
+      "water": 4,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 85,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 89,
+    "name": "",
+    "skills": [],
+    "defense": 18,
+    "resistances": {
+      "fire": 4,
+      "water": -2,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 87,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 91,
+    "name": "Wroggi Vambraces",
+    "skills": [
+      {
+        "skill_id": 50,
+        "level": 1
+      }
+    ],
+    "defense": 16,
+    "resistances": {
+      "fire": 2,
+      "water": -2,
+      "ice": -4,
+      "thunder": 1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 89,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 93,
+    "name": "Baggi Vambraces",
+    "skills": [
+      {
+        "skill_id": 74,
+        "level": 1
+      },
+      {
+        "skill_id": 14,
+        "level": 1
+      }
+    ],
+    "defense": 10,
+    "resistances": {
+      "fire": -4,
+      "water": -1,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "rare": 1,
+    "series": 91,
+    "sexual_equipable": "Both",
+    "buildup_table": 1,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 95,
+    "name": "Arzuros Vambraces",
+    "skills": [
+      {
+        "skill_id": 55,
+        "level": 1
+      }
+    ],
+    "defense": 10,
+    "resistances": {
+      "fire": -2,
+      "water": 0,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 1,
+    "series": 93,
+    "sexual_equipable": "Both",
+    "buildup_table": 1,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 97,
+    "name": "Volvidon Vambraces",
+    "skills": [
+      {
+        "skill_id": 65,
+        "level": 1
+      }
+    ],
+    "defense": 20,
+    "resistances": {
+      "fire": 2,
+      "water": -3,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "rare": 2,
+    "series": 95,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 99,
+    "name": "Ludroth Braces",
+    "skills": [
+      {
+        "skill_id": 31,
+        "level": 1
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": -3,
+      "water": 4,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 97,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 101,
+    "name": "Barroth Vambraces",
+    "skills": [
+      {
+        "skill_id": 42,
+        "level": 1
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": -3,
+      "water": -1,
+      "ice": -1,
+      "thunder": 3,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 99,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 103,
+    "name": "Khezu Vambraces",
+    "skills": [
+      {
+        "skill_id": 104,
+        "level": 1
+      },
+      {
+        "skill_id": 58,
+        "level": 1
+      },
+      {
+        "skill_id": 15,
+        "level": 1
+      }
+    ],
+    "defense": 16,
+    "resistances": {
+      "fire": -4,
+      "water": 1,
+      "ice": 2,
+      "thunder": 4,
+      "dragon": 1
+    },
+    "rare": 2,
+    "series": 101,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 105,
+    "name": "Nargacuga Braces",
+    "skills": [
+      {
+        "skill_id": 64,
+        "level": 1
+      },
+      {
+        "skill_id": 65,
+        "level": 1
+      }
+    ],
+    "defense": 26,
+    "resistances": {
+      "fire": -2,
+      "water": 1,
+      "ice": 1,
+      "thunder": -3,
+      "dragon": 1
+    },
+    "rare": 3,
+    "series": 103,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 107,
+    "name": "Barioth Vambraces",
+    "skills": [
+      {
+        "skill_id": 5,
+        "level": 1
+      }
+    ],
+    "defense": 20,
+    "resistances": {
+      "fire": -5,
+      "water": 0,
+      "ice": 3,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 105,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 109,
+    "name": "Rathian Braces",
+    "skills": [
+      {
+        "skill_id": 71,
+        "level": 1
+      }
+    ],
+    "defense": 22,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "rare": 2,
+    "series": 107,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 111,
+    "name": "Rathalos Braces",
+    "skills": [
+      {
+        "skill_id": 0,
+        "level": 1
+      }
+    ],
+    "defense": 28,
+    "resistances": {
+      "fire": 4,
+      "water": 0,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": -4
+    },
+    "rare": 3,
+    "series": 109,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 113,
+    "name": "Tigrex Braces",
+    "skills": [
+      {
+        "skill_id": 27,
+        "level": 2
+      }
+    ],
+    "defense": 30,
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": -2
+    },
+    "rare": 3,
+    "series": 111,
+    "sexual_equipable": "Both",
+    "buildup_table": 5,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 115,
+    "name": "Diablos Vambraces",
+    "skills": [
+      {
+        "skill_id": 36,
+        "level": 1
+      }
+    ],
+    "defense": 30,
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "ice": -3,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "rare": 3,
+    "series": 113,
+    "sexual_equipable": "Both",
+    "buildup_table": 5,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 117,
+    "name": "Basarios Vambraces",
+    "skills": [
+      {
+        "skill_id": 34,
+        "level": 1
+      },
+      {
+        "skill_id": 84,
+        "level": 1
+      }
+    ],
+    "defense": 22,
+    "resistances": {
+      "fire": 0,
+      "water": -2,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": -3
+    },
+    "rare": 2,
+    "series": 115,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 119,
+    "name": "Zinogre Braces",
+    "skills": [
+      {
+        "skill_id": 32,
+        "level": 1
+      }
+    ],
+    "defense": 28,
+    "resistances": {
+      "fire": 0,
+      "water": -1,
+      "ice": -4,
+      "thunder": 4,
+      "dragon": 1
+    },
+    "rare": 3,
+    "series": 117,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 123,
+    "name": "Kulu-Ya-Ku Braces",
+    "skills": [
+      {
+        "skill_id": 40,
+        "level": 1
+      }
+    ],
+    "defense": 16,
+    "resistances": {
+      "fire": 0,
+      "water": -3,
+      "ice": 1,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 121,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 125,
+    "name": "Pukei-Pukei Braces",
+    "skills": [
+      {
+        "skill_id": 23,
+        "level": 1
+      }
+    ],
+    "defense": 20,
+    "resistances": {
+      "fire": 0,
+      "water": 3,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": 1
+    },
+    "rare": 2,
+    "series": 123,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 128,
+    "name": "Tobi-Kadachi Braces",
+    "skills": [
+      {
+        "skill_id": 32,
+        "level": 1
+      }
+    ],
+    "defense": 20,
+    "resistances": {
+      "fire": 0,
+      "water": -3,
+      "ice": 0,
+      "thunder": 3,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 126,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 130,
+    "name": "Anjanath Vambraces",
+    "skills": [
+      {
+        "skill_id": 40,
+        "level": 1
+      },
+      {
+        "skill_id": 0,
+        "level": 1
+      }
+    ],
+    "defense": 26,
+    "resistances": {
+      "fire": 3,
+      "water": -3,
+      "ice": -1,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 128,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 134,
+    "name": "",
+    "skills": [],
+    "defense": 28,
+    "resistances": {
+      "fire": -3,
+      "water": -3,
+      "ice": -3,
+      "thunder": -3,
+      "dragon": 4
+    },
+    "rare": 3,
+    "series": 132,
+    "sexual_equipable": "Both",
+    "buildup_table": 5,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 138,
+    "name": "",
+    "skills": [],
+    "defense": 14,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 136,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 142,
+    "name": "Sinister Gauntlets",
+    "skills": [
+      {
+        "skill_id": 107,
+        "level": 1
+      }
+    ],
+    "defense": 28,
+    "resistances": {
+      "fire": 3,
+      "water": -3,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 1
+    },
+    "rare": 3,
+    "series": 140,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 144,
+    "name": "Lagombi Vambraces",
+    "skills": [
+      {
+        "skill_id": 14,
+        "level": 1
+      }
+    ],
+    "defense": 10,
+    "resistances": {
+      "fire": -3,
+      "water": 1,
+      "ice": 4,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 1,
+    "series": 142,
+    "sexual_equipable": "Both",
+    "buildup_table": 1,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 146,
+    "name": "Bone Vambraces",
+    "skills": [
+      {
+        "skill_id": 41,
+        "level": 1
+      }
+    ],
+    "defense": 10,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 144,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 148,
+    "name": "Mizutsune Braces",
+    "skills": [
+      {
+        "skill_id": 13,
+        "level": 1
+      },
+      {
+        "skill_id": 89,
+        "level": 1
+      }
+    ],
+    "defense": 26,
+    "resistances": {
+      "fire": 0,
+      "water": 2,
+      "ice": 1,
+      "thunder": -3,
+      "dragon": -1
+    },
+    "rare": 3,
+    "series": 146,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 150,
+    "name": "Brigade Vambraces",
+    "skills": [
+      {
+        "skill_id": 79,
+        "level": 2
+      }
+    ],
+    "defense": 26,
+    "resistances": {
+      "fire": 1,
+      "water": 0,
+      "ice": 0,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "rare": 3,
+    "series": 148,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 154,
+    "name": "Kamurai Braces",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 152,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 155,
+    "name": "Sinister Seal Braces",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 153,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 157,
+    "name": "",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 155,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 158,
+    "name": "",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 156,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 159,
+    "name": "Swallow Gloves",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 157,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 172,
+    "name": "Diver's Braces",
+    "skills": [
+      {
+        "skill_id": 79,
+        "level": 1
+      },
+      {
+        "skill_id": 104,
+        "level": 1
+      }
+    ],
+    "defense": 24,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 170,
+    "sexual_equipable": "Both",
+    "buildup_table": 6,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 190,
+    "name": "Sonic Gloves",
+    "skills": [
+      {
+        "skill_id": 0,
+        "level": 1
+      },
+      {
+        "skill_id": 57,
+        "level": 1
+      }
+    ],
+    "defense": 30,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "rare": 3,
+    "series": 188,
+    "sexual_equipable": "Both",
+    "buildup_table": 7,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]

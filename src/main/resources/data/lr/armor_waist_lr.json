@@ -1,0 +1,2026 @@
+[
+  {
+    "armor_index": 0,
+    "name": "Kamura Obi",
+    "skills": [
+      {
+        "skill_id": 5,
+        "level": 1
+      }
+    ],
+    "defense": 1,
+    "resistances": {
+      "fire": 1,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 1,
+    "series": 0,
+    "sexual_equipable": "Both",
+    "buildup_table": 0,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 2,
+    "name": "Leather Belt",
+    "skills": [
+      {
+        "skill_id": 57,
+        "level": 1
+      }
+    ],
+    "defense": 1,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 1,
+    "series": 2,
+    "sexual_equipable": "Both",
+    "buildup_table": 0,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 4,
+    "name": "Chainmail Belt",
+    "skills": [
+      {
+        "skill_id": 34,
+        "level": 1
+      }
+    ],
+    "defense": 4,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 1,
+      "dragon": 0
+    },
+    "rare": 1,
+    "series": 4,
+    "sexual_equipable": "Both",
+    "buildup_table": 1,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 6,
+    "name": "Hunter's Coil",
+    "skills": [
+      {
+        "skill_id": 75,
+        "level": 1
+      }
+    ],
+    "defense": 4,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 1,
+    "series": 6,
+    "sexual_equipable": "Both",
+    "buildup_table": 1,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 9,
+    "name": "Alloy Coil",
+    "skills": [
+      {
+        "skill_id": 13,
+        "level": 1
+      },
+      {
+        "skill_id": 5,
+        "level": 1
+      }
+    ],
+    "defense": 10,
+    "resistances": {
+      "fire": -1,
+      "water": 0,
+      "ice": -1,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 9,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 11,
+    "name": "Ingot Coil",
+    "skills": [
+      {
+        "skill_id": 30,
+        "level": 1
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": -1,
+      "water": -1,
+      "ice": 0,
+      "thunder": 1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 11,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 14,
+    "name": "Melahoa Folia",
+    "skills": [
+      {
+        "skill_id": 78,
+        "level": 1
+      },
+      {
+        "skill_id": 58,
+        "level": 1
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": 0,
+      "water": 1,
+      "ice": 0,
+      "thunder": 3,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 14,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 16,
+    "name": "Makluva Coil",
+    "skills": [
+      {
+        "skill_id": 74,
+        "level": 1
+      }
+    ],
+    "defense": 24,
+    "resistances": {
+      "fire": 1,
+      "water": 2,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 16,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 18,
+    "name": "Death Stench Bowels",
+    "skills": [
+      {
+        "skill_id": 70,
+        "level": 1
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": 3,
+      "water": 1,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 18,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 20,
+    "name": "Mosgharl Folia",
+    "skills": [
+      {
+        "skill_id": 12,
+        "level": 2
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": -3,
+      "water": 1,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 20,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 22,
+    "name": "Mosgharl Folia",
+    "skills": [
+      {
+        "skill_id": 12,
+        "level": 2
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": -3,
+      "water": 1,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 22,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 24,
+    "name": "Aelucanth Elytra",
+    "skills": [
+      {
+        "skill_id": 16,
+        "level": 2
+      }
+    ],
+    "defense": 24,
+    "resistances": {
+      "fire": -2,
+      "water": 0,
+      "ice": -2,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "rare": 3,
+    "series": 24,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 26,
+    "name": "Rhopessa Elytra",
+    "skills": [
+      {
+        "skill_id": 16,
+        "level": 2
+      }
+    ],
+    "defense": 24,
+    "resistances": {
+      "fire": -2,
+      "water": 0,
+      "ice": -2,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "rare": 3,
+    "series": 26,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 28,
+    "name": "Vaik Coil",
+    "skills": [
+      {
+        "skill_id": 53,
+        "level": 1
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": 0,
+      "water": 3,
+      "ice": -1,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 28,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 30,
+    "name": "",
+    "skills": [],
+    "defense": 12,
+    "resistances": {
+      "fire": 2,
+      "water": -2,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 30,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 32,
+    "name": "Edel Folia",
+    "skills": [
+      {
+        "skill_id": 69,
+        "level": 1
+      }
+    ],
+    "defense": 12,
+    "resistances": {
+      "fire": -1,
+      "water": 3,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 32,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 34,
+    "name": "Skalda Elytra",
+    "skills": [
+      {
+        "skill_id": 5,
+        "level": 1
+      }
+    ],
+    "defense": 12,
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "ice": -1,
+      "thunder": -1,
+      "dragon": 3
+    },
+    "rare": 2,
+    "series": 34,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 36,
+    "name": "Spio Elytra",
+    "skills": [
+      {
+        "skill_id": 5,
+        "level": 1
+      }
+    ],
+    "defense": 12,
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "ice": -1,
+      "thunder": -1,
+      "dragon": 3
+    },
+    "rare": 2,
+    "series": 36,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 38,
+    "name": "Utsushi Tassets (V)",
+    "skills": [
+      {
+        "skill_id": 59,
+        "level": 1
+      }
+    ],
+    "defense": 24,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 38,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 40,
+    "name": "Channeler's Obi",
+    "skills": [
+      {
+        "skill_id": 1,
+        "level": 1
+      }
+    ],
+    "defense": 24,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 40,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 42,
+    "name": "Utsushi Tassets (H)",
+    "skills": [
+      {
+        "skill_id": 1,
+        "level": 1
+      }
+    ],
+    "defense": 24,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 42,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 44,
+    "name": "Medium's Obi",
+    "skills": [
+      {
+        "skill_id": 59,
+        "level": 1
+      }
+    ],
+    "defense": 24,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 44,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 46,
+    "name": "S. Studded Sash",
+    "skills": [
+      {
+        "skill_id": 26,
+        "level": 1
+      }
+    ],
+    "defense": 12,
+    "resistances": {
+      "fire": 0,
+      "water": 2,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 46,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 48,
+    "name": "Jelly Coil",
+    "skills": [
+      {
+        "skill_id": 80,
+        "level": 1
+      }
+    ],
+    "defense": 24,
+    "resistances": {
+      "fire": 1,
+      "water": 3,
+      "ice": 2,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 48,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 50,
+    "name": "Bishaten Coil",
+    "skills": [
+      {
+        "skill_id": 87,
+        "level": 1
+      }
+    ],
+    "defense": 22,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": -4,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "rare": 2,
+    "series": 50,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 52,
+    "name": "Aknosom Coil",
+    "skills": [
+      {
+        "skill_id": 58,
+        "level": 1
+      }
+    ],
+    "defense": 16,
+    "resistances": {
+      "fire": 3,
+      "water": -3,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 52,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 54,
+    "name": "Tetranadon Coil",
+    "skills": [
+      {
+        "skill_id": 90,
+        "level": 1
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": -1,
+      "water": 4,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 54,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 56,
+    "name": "Somnacanth Coil",
+    "skills": [
+      {
+        "skill_id": 85,
+        "level": 1
+      }
+    ],
+    "defense": 22,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": 1
+    },
+    "rare": 2,
+    "series": 56,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 60,
+    "name": "Goss Harag Coil",
+    "skills": [
+      {
+        "skill_id": 38,
+        "level": 1
+      },
+      {
+        "skill_id": 3,
+        "level": 1
+      }
+    ],
+    "defense": 30,
+    "resistances": {
+      "fire": -4,
+      "water": 1,
+      "ice": 4,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 60,
+    "sexual_equipable": "Both",
+    "buildup_table": 5,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 62,
+    "name": "Almudron Coil",
+    "skills": [
+      {
+        "skill_id": 30,
+        "level": 1
+      }
+    ],
+    "defense": 30,
+    "resistances": {
+      "fire": -4,
+      "water": 3,
+      "ice": -2,
+      "thunder": 3,
+      "dragon": -2
+    },
+    "rare": 3,
+    "series": 62,
+    "sexual_equipable": "Both",
+    "buildup_table": 5,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 68,
+    "name": "Izuchi Coil",
+    "skills": [
+      {
+        "skill_id": 5,
+        "level": 1
+      }
+    ],
+    "defense": 10,
+    "resistances": {
+      "fire": 2,
+      "water": -1,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 1,
+    "series": 66,
+    "sexual_equipable": "Both",
+    "buildup_table": 1,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 73,
+    "name": "",
+    "skills": [],
+    "defense": 14,
+    "resistances": {
+      "fire": -3,
+      "water": -2,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 71,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 75,
+    "name": "",
+    "skills": [],
+    "defense": 14,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "rare": 2,
+    "series": 73,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 77,
+    "name": "Rhenoplos Coil",
+    "skills": [
+      {
+        "skill_id": 62,
+        "level": 1
+      }
+    ],
+    "defense": 14,
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": -2,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 75,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 79,
+    "name": "",
+    "skills": [],
+    "defense": 14,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 1,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 77,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 81,
+    "name": "Bnahabra Coil",
+    "skills": [
+      {
+        "skill_id": 18,
+        "level": 1
+      }
+    ],
+    "defense": 14,
+    "resistances": {
+      "fire": -2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 2
+    },
+    "rare": 2,
+    "series": 79,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 83,
+    "name": "",
+    "skills": [],
+    "defense": 14,
+    "resistances": {
+      "fire": 0,
+      "water": 4,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 81,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 85,
+    "name": "Remobra Belt",
+    "skills": [
+      {
+        "skill_id": 10,
+        "level": 1
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 2
+    },
+    "rare": 2,
+    "series": 83,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 87,
+    "name": "Droth Coil",
+    "skills": [
+      {
+        "skill_id": 97,
+        "level": 1
+      }
+    ],
+    "defense": 14,
+    "resistances": {
+      "fire": -2,
+      "water": 4,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 85,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 89,
+    "name": "Uroktor Coil",
+    "skills": [
+      {
+        "skill_id": 66,
+        "level": 1
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": 4,
+      "water": -2,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 87,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 91,
+    "name": "Wroggi Coil",
+    "skills": [
+      {
+        "skill_id": 17,
+        "level": 1
+      }
+    ],
+    "defense": 16,
+    "resistances": {
+      "fire": 2,
+      "water": -2,
+      "ice": -4,
+      "thunder": 1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 89,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 93,
+    "name": "Baggi Coil",
+    "skills": [
+      {
+        "skill_id": 74,
+        "level": 1
+      }
+    ],
+    "defense": 10,
+    "resistances": {
+      "fire": -4,
+      "water": -1,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "rare": 1,
+    "series": 91,
+    "sexual_equipable": "Both",
+    "buildup_table": 1,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 95,
+    "name": "Arzuros Coil",
+    "skills": [
+      {
+        "skill_id": 55,
+        "level": 1
+      }
+    ],
+    "defense": 10,
+    "resistances": {
+      "fire": -2,
+      "water": 0,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 1,
+    "series": 93,
+    "sexual_equipable": "Both",
+    "buildup_table": 1,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 97,
+    "name": "Volvidon Coil",
+    "skills": [
+      {
+        "skill_id": 106,
+        "level": 1
+      }
+    ],
+    "defense": 20,
+    "resistances": {
+      "fire": 2,
+      "water": -3,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "rare": 2,
+    "series": 95,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 99,
+    "name": "Ludroth Coil",
+    "skills": [
+      {
+        "skill_id": 13,
+        "level": 2
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": -3,
+      "water": 4,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 97,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 101,
+    "name": "Barroth Coil",
+    "skills": [
+      {
+        "skill_id": 34,
+        "level": 1
+      }
+    ],
+    "defense": 18,
+    "resistances": {
+      "fire": -3,
+      "water": -1,
+      "ice": -1,
+      "thunder": 3,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 99,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 103,
+    "name": "Khezu Coil",
+    "skills": [
+      {
+        "skill_id": 29,
+        "level": 1
+      },
+      {
+        "skill_id": 40,
+        "level": 1
+      }
+    ],
+    "defense": 16,
+    "resistances": {
+      "fire": -4,
+      "water": 1,
+      "ice": 2,
+      "thunder": 4,
+      "dragon": 1
+    },
+    "rare": 2,
+    "series": 101,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 105,
+    "name": "Nargacuga Coil",
+    "skills": [
+      {
+        "skill_id": 65,
+        "level": 1
+      }
+    ],
+    "defense": 26,
+    "resistances": {
+      "fire": -2,
+      "water": 1,
+      "ice": 1,
+      "thunder": -3,
+      "dragon": 1
+    },
+    "rare": 3,
+    "series": 103,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 107,
+    "name": "Barioth Coil",
+    "skills": [
+      {
+        "skill_id": 5,
+        "level": 2
+      }
+    ],
+    "defense": 20,
+    "resistances": {
+      "fire": -5,
+      "water": 0,
+      "ice": 3,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 105,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 109,
+    "name": "Rathian Coil",
+    "skills": [
+      {
+        "skill_id": 57,
+        "level": 1
+      },
+      {
+        "skill_id": 88,
+        "level": 1
+      }
+    ],
+    "defense": 22,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "rare": 2,
+    "series": 107,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 111,
+    "name": "Rathalos Coil",
+    "skills": [
+      {
+        "skill_id": 0,
+        "level": 1
+      },
+      {
+        "skill_id": 61,
+        "level": 1
+      }
+    ],
+    "defense": 28,
+    "resistances": {
+      "fire": 4,
+      "water": 0,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": -4
+    },
+    "rare": 3,
+    "series": 109,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 113,
+    "name": "Tigrex Coil",
+    "skills": [
+      {
+        "skill_id": 60,
+        "level": 1
+      }
+    ],
+    "defense": 30,
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": -2
+    },
+    "rare": 3,
+    "series": 111,
+    "sexual_equipable": "Both",
+    "buildup_table": 5,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 115,
+    "name": "Diablos Coil",
+    "skills": [
+      {
+        "skill_id": 33,
+        "level": 1
+      }
+    ],
+    "defense": 30,
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "ice": -3,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "rare": 3,
+    "series": 113,
+    "sexual_equipable": "Both",
+    "buildup_table": 5,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 117,
+    "name": "Basarios Coil",
+    "skills": [
+      {
+        "skill_id": 84,
+        "level": 1
+      },
+      {
+        "skill_id": 55,
+        "level": 1
+      }
+    ],
+    "defense": 22,
+    "resistances": {
+      "fire": 0,
+      "water": -2,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": -3
+    },
+    "rare": 2,
+    "series": 115,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 119,
+    "name": "Zinogre Coil",
+    "skills": [
+      {
+        "skill_id": 8,
+        "level": 1
+      }
+    ],
+    "defense": 28,
+    "resistances": {
+      "fire": 0,
+      "water": -1,
+      "ice": -4,
+      "thunder": 4,
+      "dragon": 1
+    },
+    "rare": 3,
+    "series": 117,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 123,
+    "name": "Kulu-Ya-Ku Coil",
+    "skills": [
+      {
+        "skill_id": 41,
+        "level": 1
+      }
+    ],
+    "defense": 16,
+    "resistances": {
+      "fire": 0,
+      "water": -3,
+      "ice": 1,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 121,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 125,
+    "name": "Pukei-Pukei Coil",
+    "skills": [
+      {
+        "skill_id": 17,
+        "level": 2
+      }
+    ],
+    "defense": 20,
+    "resistances": {
+      "fire": 0,
+      "water": 3,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": 1
+    },
+    "rare": 2,
+    "series": 123,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 128,
+    "name": "Tobi-Kadachi Coil",
+    "skills": [
+      {
+        "skill_id": 15,
+        "level": 2
+      }
+    ],
+    "defense": 20,
+    "resistances": {
+      "fire": 0,
+      "water": -3,
+      "ice": 0,
+      "thunder": 3,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 126,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 130,
+    "name": "Anjanath Coil",
+    "skills": [
+      {
+        "skill_id": 0,
+        "level": 2
+      }
+    ],
+    "defense": 26,
+    "resistances": {
+      "fire": 3,
+      "water": -3,
+      "ice": -1,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 128,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 134,
+    "name": "",
+    "skills": [],
+    "defense": 28,
+    "resistances": {
+      "fire": -3,
+      "water": -3,
+      "ice": -3,
+      "thunder": -3,
+      "dragon": 4
+    },
+    "rare": 3,
+    "series": 132,
+    "sexual_equipable": "Both",
+    "buildup_table": 5,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 138,
+    "name": "",
+    "skills": [],
+    "defense": 14,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 136,
+    "sexual_equipable": "Both",
+    "buildup_table": 3,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 142,
+    "name": "Sinister Tassets",
+    "skills": [
+      {
+        "skill_id": 107,
+        "level": 1
+      },
+      {
+        "skill_id": 105,
+        "level": 2
+      }
+    ],
+    "defense": 28,
+    "resistances": {
+      "fire": 3,
+      "water": -3,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 1
+    },
+    "rare": 3,
+    "series": 140,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 144,
+    "name": "Lagombi Coil",
+    "skills": [
+      {
+        "skill_id": 32,
+        "level": 1
+      }
+    ],
+    "defense": 10,
+    "resistances": {
+      "fire": -3,
+      "water": 1,
+      "ice": 4,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 1,
+    "series": 142,
+    "sexual_equipable": "Both",
+    "buildup_table": 1,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 146,
+    "name": "Bone Coil",
+    "skills": [
+      {
+        "skill_id": 29,
+        "level": 1
+      }
+    ],
+    "defense": 10,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 2,
+    "series": 144,
+    "sexual_equipable": "Both",
+    "buildup_table": 2,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 148,
+    "name": "Mizutsune Coil",
+    "skills": [
+      {
+        "skill_id": 89,
+        "level": 1
+      }
+    ],
+    "defense": 26,
+    "resistances": {
+      "fire": 0,
+      "water": 2,
+      "ice": 1,
+      "thunder": -3,
+      "dragon": -1
+    },
+    "rare": 3,
+    "series": 146,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 150,
+    "name": "Brigade Coil",
+    "skills": [
+      {
+        "skill_id": 71,
+        "level": 1
+      }
+    ],
+    "defense": 26,
+    "resistances": {
+      "fire": 1,
+      "water": 0,
+      "ice": 0,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "rare": 3,
+    "series": 148,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 154,
+    "name": "Kamurai Obi",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 152,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 155,
+    "name": "Sinister Seal Obi",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 153,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 157,
+    "name": "",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 155,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 158,
+    "name": "",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 156,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 159,
+    "name": "",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 157,
+    "sexual_equipable": "Both",
+    "buildup_table": 4,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 172,
+    "name": "Diver's Belt",
+    "skills": [
+      {
+        "skill_id": 78,
+        "level": 1
+      },
+      {
+        "skill_id": 103,
+        "level": 1
+      }
+    ],
+    "defense": 24,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 3,
+    "series": 170,
+    "sexual_equipable": "Both",
+    "buildup_table": 6,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 190,
+    "name": "",
+    "skills": [
+      {
+        "skill_id": 60,
+        "level": 1
+      },
+      {
+        "skill_id": 32,
+        "level": 1
+      }
+    ],
+    "defense": 30,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "rare": 3,
+    "series": 188,
+    "sexual_equipable": "Both",
+    "buildup_table": 7,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]

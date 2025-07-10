@@ -1,19 +1,37 @@
 <!DOCTYPE html>
-<html>
+<html xmlns:th="http://www.thymeleaf.org">
     
     <head>
         <link th:href="@{/css/menu.css}" rel="stylesheet" >
-        <title>Document</title>
+        <title>Armor Planner</title>
     </head>
 
     <body>
 
         <div class="background"></div>
-        <div class="skillsBox"></div>
+        <div class="skillsBox">
+            <table>
+                <tr>
+                    <th>Name</th>
+                </tr>
+                <tr th:each="skill : ${skills}">
+                    <td th:text="${skill.name}"></td>
+                </tr>
+            </table>
+        </div>
         <div class="headArmor"></div>
         <div class="waistArmor"></div>
         <div class="legsArmor"></div>
         <div class="armsArmor"></div>
+        <table>
+            <tr>
+                <th>Name</th>
+            </tr>
+            <tr th:each="ArmArmor : ${lrArmArmor}">
+                <td th:text="${ArmArmor.getName()}"></td>
+                <td th:text="${ArmArmor.getDefense()}"></td>
+            </tr>
+        </table>
         <div class="chestArmor"></div>
         
     </body>

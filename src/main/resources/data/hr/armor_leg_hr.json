@@ -1,0 +1,3284 @@
+[
+  {
+    "armor_index": 1,
+    "name": "Kamura Leggings S",
+    "skills": [
+      {
+        "skill_id": 104,
+        "level": 2
+      },
+      {
+        "skill_id": 4,
+        "level": 1
+      }
+    ],
+    "defense": 30,
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 1,
+    "sexual_equipable": "Both",
+    "buildup_table": 8,
+    "decorations_num_list": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 3,
+    "name": "Leather Pants S",
+    "skills": [
+      {
+        "skill_id": 79,
+        "level": 1
+      }
+    ],
+    "defense": 30,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 3,
+    "sexual_equipable": "Both",
+    "buildup_table": 8,
+    "decorations_num_list": [
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 5,
+    "name": "Chainmail Pants S",
+    "skills": [
+      {
+        "skill_id": 78,
+        "level": 1
+      },
+      {
+        "skill_id": 33,
+        "level": 1
+      }
+    ],
+    "defense": 32,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 1,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 5,
+    "sexual_equipable": "Both",
+    "buildup_table": 8,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 7,
+    "name": "Hunter's Greaves S",
+    "skills": [
+      {
+        "skill_id": 75,
+        "level": 1
+      },
+      {
+        "skill_id": 0,
+        "level": 2
+      }
+    ],
+    "defense": 32,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 7,
+    "sexual_equipable": "Both",
+    "buildup_table": 8,
+    "decorations_num_list": [
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 8,
+    "name": "Dober Greaves",
+    "skills": [
+      {
+        "skill_id": 16,
+        "level": 1
+      },
+      {
+        "skill_id": 29,
+        "level": 1
+      },
+      {
+        "skill_id": 90,
+        "level": 1
+      }
+    ],
+    "defense": 52,
+    "resistances": {
+      "fire": -2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 4
+    },
+    "rare": 5,
+    "series": 8,
+    "sexual_equipable": "Both",
+    "buildup_table": 13,
+    "decorations_num_list": [
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 10,
+    "name": "Alloy Greaves S",
+    "skills": [
+      {
+        "skill_id": 84,
+        "level": 1
+      },
+      {
+        "skill_id": 5,
+        "level": 1
+      }
+    ],
+    "defense": 32,
+    "resistances": {
+      "fire": -1,
+      "water": 0,
+      "ice": -1,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 10,
+    "sexual_equipable": "Both",
+    "buildup_table": 8,
+    "decorations_num_list": [
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 12,
+    "name": "Ingot Greaves S",
+    "skills": [
+      {
+        "skill_id": 0,
+        "level": 2
+      },
+      {
+        "skill_id": 5,
+        "level": 2
+      }
+    ],
+    "defense": 40,
+    "resistances": {
+      "fire": -1,
+      "water": -1,
+      "ice": 0,
+      "thunder": 1,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 12,
+    "sexual_equipable": "Both",
+    "buildup_table": 9,
+    "decorations_num_list": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 13,
+    "name": "Damascus Greaves",
+    "skills": [
+      {
+        "skill_id": 21,
+        "level": 2
+      }
+    ],
+    "defense": 68,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 1,
+      "thunder": -3,
+      "dragon": -1
+    },
+    "rare": 7,
+    "series": 13,
+    "sexual_equipable": "Both",
+    "buildup_table": 18,
+    "decorations_num_list": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 15,
+    "name": "Melahoa Roots S",
+    "skills": [
+      {
+        "skill_id": 57,
+        "level": 1
+      },
+      {
+        "skill_id": 58,
+        "level": 2
+      }
+    ],
+    "defense": 52,
+    "resistances": {
+      "fire": 0,
+      "water": 1,
+      "ice": 0,
+      "thunder": 3,
+      "dragon": 0
+    },
+    "rare": 5,
+    "series": 15,
+    "sexual_equipable": "Both",
+    "buildup_table": 11,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 17,
+    "name": "Makluva Pants S",
+    "skills": [
+      {
+        "skill_id": 63,
+        "level": 1
+      },
+      {
+        "skill_id": 59,
+        "level": 1
+      }
+    ],
+    "defense": 52,
+    "resistances": {
+      "fire": 1,
+      "water": 2,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 5,
+    "series": 17,
+    "sexual_equipable": "Both",
+    "buildup_table": 11,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 19,
+    "name": "Death Stench Heel S",
+    "skills": [
+      {
+        "skill_id": 24,
+        "level": 1
+      },
+      {
+        "skill_id": 106,
+        "level": 1
+      }
+    ],
+    "defense": 52,
+    "resistances": {
+      "fire": 3,
+      "water": 1,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": 0
+    },
+    "rare": 5,
+    "series": 19,
+    "sexual_equipable": "Both",
+    "buildup_table": 11,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 21,
+    "name": "Mosgharl Roots S",
+    "skills": [
+      {
+        "skill_id": 52,
+        "level": 2
+      }
+    ],
+    "defense": 52,
+    "resistances": {
+      "fire": -3,
+      "water": 1,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 5,
+    "series": 21,
+    "sexual_equipable": "Both",
+    "buildup_table": 11,
+    "decorations_num_list": [
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 23,
+    "name": "Mosgharl Roots S",
+    "skills": [
+      {
+        "skill_id": 52,
+        "level": 2
+      }
+    ],
+    "defense": 52,
+    "resistances": {
+      "fire": -3,
+      "water": 1,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 5,
+    "series": 23,
+    "sexual_equipable": "Both",
+    "buildup_table": 11,
+    "decorations_num_list": [
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 25,
+    "name": "Aelucanth Crura S",
+    "skills": [
+      {
+        "skill_id": 5,
+        "level": 2
+      },
+      {
+        "skill_id": 16,
+        "level": 1
+      }
+    ],
+    "defense": 62,
+    "resistances": {
+      "fire": -2,
+      "water": 0,
+      "ice": -2,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "rare": 6,
+    "series": 25,
+    "sexual_equipable": "Both",
+    "buildup_table": 13,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 27,
+    "name": "Rhopessa Crura S",
+    "skills": [
+      {
+        "skill_id": 5,
+        "level": 2
+      },
+      {
+        "skill_id": 16,
+        "level": 1
+      }
+    ],
+    "defense": 62,
+    "resistances": {
+      "fire": -2,
+      "water": 0,
+      "ice": -2,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "rare": 6,
+    "series": 27,
+    "sexual_equipable": "Both",
+    "buildup_table": 13,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 29,
+    "name": "Vaik Greaves S",
+    "skills": [
+      {
+        "skill_id": 50,
+        "level": 1
+      }
+    ],
+    "defense": 52,
+    "resistances": {
+      "fire": 0,
+      "water": 3,
+      "ice": -1,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 5,
+    "series": 29,
+    "sexual_equipable": "Both",
+    "buildup_table": 11,
+    "decorations_num_list": [
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "armor_index": 31,
+    "name": "",
+    "skills": [],
+    "defense": 40,
+    "resistances": {
+      "fire": 2,
+      "water": -2,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 31,
+    "sexual_equipable": "Both",
+    "buildup_table": 9,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 33,
+    "name": "Edel Roots S",
+    "skills": [
+      {
+        "skill_id": 72,
+        "level": 1
+      }
+    ],
+    "defense": 40,
+    "resistances": {
+      "fire": -1,
+      "water": 3,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 33,
+    "sexual_equipable": "Both",
+    "buildup_table": 9,
+    "decorations_num_list": [
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "armor_index": 35,
+    "name": "Skalda Crura S",
+    "skills": [
+      {
+        "skill_id": 8,
+        "level": 1
+      },
+      {
+        "skill_id": 72,
+        "level": 1
+      },
+      {
+        "skill_id": 25,
+        "level": 1
+      }
+    ],
+    "defense": 32,
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "ice": -1,
+      "thunder": -1,
+      "dragon": 3
+    },
+    "rare": 4,
+    "series": 35,
+    "sexual_equipable": "Both",
+    "buildup_table": 8,
+    "decorations_num_list": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 37,
+    "name": "Spio Crura S",
+    "skills": [
+      {
+        "skill_id": 8,
+        "level": 1
+      },
+      {
+        "skill_id": 72,
+        "level": 1
+      },
+      {
+        "skill_id": 25,
+        "level": 1
+      }
+    ],
+    "defense": 32,
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "ice": -1,
+      "thunder": -1,
+      "dragon": 3
+    },
+    "rare": 4,
+    "series": 37,
+    "sexual_equipable": "Both",
+    "buildup_table": 8,
+    "decorations_num_list": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 39,
+    "name": "Utsushi Greaves (V) S",
+    "skills": [
+      {
+        "skill_id": 88,
+        "level": 1
+      },
+      {
+        "skill_id": 89,
+        "level": 1
+      },
+      {
+        "skill_id": 83,
+        "level": 1
+      }
+    ],
+    "defense": 52,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 5,
+    "series": 39,
+    "sexual_equipable": "Both",
+    "buildup_table": 11,
+    "decorations_num_list": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 41,
+    "name": "Channeler's Hakama S",
+    "skills": [
+      {
+        "skill_id": 64,
+        "level": 1
+      },
+      {
+        "skill_id": 1,
+        "level": 1
+      }
+    ],
+    "defense": 52,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 5,
+    "series": 41,
+    "sexual_equipable": "Both",
+    "buildup_table": 11,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 43,
+    "name": "Utsushi Greaves (H) S",
+    "skills": [
+      {
+        "skill_id": 64,
+        "level": 1
+      },
+      {
+        "skill_id": 1,
+        "level": 1
+      }
+    ],
+    "defense": 52,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 5,
+    "series": 43,
+    "sexual_equipable": "Both",
+    "buildup_table": 11,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 45,
+    "name": "Medium's Hakama S",
+    "skills": [
+      {
+        "skill_id": 88,
+        "level": 1
+      },
+      {
+        "skill_id": 89,
+        "level": 1
+      },
+      {
+        "skill_id": 83,
+        "level": 1
+      }
+    ],
+    "defense": 52,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 5,
+    "series": 45,
+    "sexual_equipable": "Both",
+    "buildup_table": 11,
+    "decorations_num_list": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 47,
+    "name": "S. Studded Sandals S",
+    "skills": [
+      {
+        "skill_id": 49,
+        "level": 1
+      },
+      {
+        "skill_id": 48,
+        "level": 1
+      }
+    ],
+    "defense": 52,
+    "resistances": {
+      "fire": 0,
+      "water": 2,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": 0
+    },
+    "rare": 5,
+    "series": 47,
+    "sexual_equipable": "Both",
+    "buildup_table": 11,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 49,
+    "name": "Jelly Boots S",
+    "skills": [
+      {
+        "skill_id": 20,
+        "level": 1
+      }
+    ],
+    "defense": 62,
+    "resistances": {
+      "fire": 1,
+      "water": 3,
+      "ice": 2,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 49,
+    "sexual_equipable": "Both",
+    "buildup_table": 13,
+    "decorations_num_list": [
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "armor_index": 51,
+    "name": "Bishaten Greaves S",
+    "skills": [
+      {
+        "skill_id": 9,
+        "level": 1
+      }
+    ],
+    "defense": 52,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": -4,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "rare": 5,
+    "series": 51,
+    "sexual_equipable": "Both",
+    "buildup_table": 10,
+    "decorations_num_list": [
+      2,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 53,
+    "name": "Aknosom Greaves S",
+    "skills": [
+      {
+        "skill_id": 2,
+        "level": 1
+      },
+      {
+        "skill_id": 12,
+        "level": 2
+      }
+    ],
+    "defense": 38,
+    "resistances": {
+      "fire": 3,
+      "water": -3,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 53,
+    "sexual_equipable": "Both",
+    "buildup_table": 8,
+    "decorations_num_list": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 55,
+    "name": "Tetranadon Greaves S",
+    "skills": [
+      {
+        "skill_id": 47,
+        "level": 1
+      },
+      {
+        "skill_id": 95,
+        "level": 1
+      }
+    ],
+    "defense": 40,
+    "resistances": {
+      "fire": -1,
+      "water": 4,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 55,
+    "sexual_equipable": "Both",
+    "buildup_table": 8,
+    "decorations_num_list": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 57,
+    "name": "Somnacanth Greaves S",
+    "skills": [
+      {
+        "skill_id": 56,
+        "level": 2
+      }
+    ],
+    "defense": 58,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": 1
+    },
+    "rare": 5,
+    "series": 57,
+    "sexual_equipable": "Both",
+    "buildup_table": 11,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 58,
+    "name": "Rakna Greaves",
+    "skills": [
+      {
+        "skill_id": 32,
+        "level": 2
+      },
+      {
+        "skill_id": 33,
+        "level": 2
+      }
+    ],
+    "defense": 66,
+    "resistances": {
+      "fire": 4,
+      "water": -2,
+      "ice": -3,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "rare": 6,
+    "series": 58,
+    "sexual_equipable": "Both",
+    "buildup_table": 13,
+    "decorations_num_list": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 59,
+    "name": "Rakna Greaves",
+    "skills": [
+      {
+        "skill_id": 32,
+        "level": 2
+      },
+      {
+        "skill_id": 33,
+        "level": 2
+      }
+    ],
+    "defense": 66,
+    "resistances": {
+      "fire": 4,
+      "water": -2,
+      "ice": -3,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "rare": 6,
+    "series": 59,
+    "sexual_equipable": "Both",
+    "buildup_table": 13,
+    "decorations_num_list": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 61,
+    "name": "Goss Harag Greaves S",
+    "skills": [
+      {
+        "skill_id": 38,
+        "level": 1
+      },
+      {
+        "skill_id": 1,
+        "level": 3
+      }
+    ],
+    "defense": 64,
+    "resistances": {
+      "fire": -4,
+      "water": 1,
+      "ice": 4,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 61,
+    "sexual_equipable": "Both",
+    "buildup_table": 13,
+    "decorations_num_list": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 63,
+    "name": "Almudron Greaves S",
+    "skills": [
+      {
+        "skill_id": 22,
+        "level": 1
+      }
+    ],
+    "defense": 64,
+    "resistances": {
+      "fire": -4,
+      "water": 3,
+      "ice": -2,
+      "thunder": 3,
+      "dragon": -2
+    },
+    "rare": 6,
+    "series": 63,
+    "sexual_equipable": "Both",
+    "buildup_table": 13,
+    "decorations_num_list": [
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "armor_index": 64,
+    "name": "Ibushi's Foot",
+    "skills": [
+      {
+        "skill_id": 108,
+        "level": 1
+      },
+      {
+        "skill_id": 40,
+        "level": 1
+      },
+      {
+        "skill_id": 35,
+        "level": 1
+      }
+    ],
+    "defense": 66,
+    "resistances": {
+      "fire": -1,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": -2
+    },
+    "rare": 7,
+    "series": 64,
+    "sexual_equipable": "Both",
+    "buildup_table": 14,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 65,
+    "name": "Ibushi's Foot",
+    "skills": [
+      {
+        "skill_id": 108,
+        "level": 1
+      },
+      {
+        "skill_id": 40,
+        "level": 1
+      },
+      {
+        "skill_id": 35,
+        "level": 1
+      },
+      {
+        "skill_id": 110,
+        "level": 1
+      }
+    ],
+    "defense": 66,
+    "resistances": {
+      "fire": -1,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": -2
+    },
+    "rare": 7,
+    "series": 64,
+    "sexual_equipable": "Both",
+    "buildup_table": 14,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 66,
+    "name": "Narwa's Foot",
+    "skills": [
+      {
+        "skill_id": 109,
+        "level": 1
+      },
+      {
+        "skill_id": 64,
+        "level": 1
+      },
+      {
+        "skill_id": 31,
+        "level": 1
+      }
+    ],
+    "defense": 76,
+    "resistances": {
+      "fire": 2,
+      "water": 1,
+      "ice": -3,
+      "thunder": 4,
+      "dragon": -4
+    },
+    "rare": 7,
+    "series": 65,
+    "sexual_equipable": "Both",
+    "buildup_table": 16,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 67,
+    "name": "Narwa's Foot",
+    "skills": [
+      {
+        "skill_id": 109,
+        "level": 1
+      },
+      {
+        "skill_id": 64,
+        "level": 1
+      },
+      {
+        "skill_id": 31,
+        "level": 1
+      },
+      {
+        "skill_id": 110,
+        "level": 1
+      }
+    ],
+    "defense": 76,
+    "resistances": {
+      "fire": 2,
+      "water": 1,
+      "ice": -3,
+      "thunder": 4,
+      "dragon": -4
+    },
+    "rare": 7,
+    "series": 65,
+    "sexual_equipable": "Both",
+    "buildup_table": 16,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 69,
+    "name": "Izuchi Greaves S",
+    "skills": [
+      {
+        "skill_id": 58,
+        "level": 1
+      },
+      {
+        "skill_id": 32,
+        "level": 1
+      }
+    ],
+    "defense": 36,
+    "resistances": {
+      "fire": 2,
+      "water": -1,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 67,
+    "sexual_equipable": "Both",
+    "buildup_table": 8,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 70,
+    "name": "Kushala Crus",
+    "skills": [
+      {
+        "skill_id": 100,
+        "level": 1
+      },
+      {
+        "skill_id": 21,
+        "level": 1
+      },
+      {
+        "skill_id": 48,
+        "level": 1
+      }
+    ],
+    "defense": 74,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "rare": 7,
+    "series": 68,
+    "sexual_equipable": "Both",
+    "buildup_table": 17,
+    "decorations_num_list": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 71,
+    "name": "Mizuha Gaiters",
+    "skills": [
+      {
+        "skill_id": 99,
+        "level": 1
+      },
+      {
+        "skill_id": 64,
+        "level": 1
+      }
+    ],
+    "defense": 74,
+    "resistances": {
+      "fire": -5,
+      "water": 1,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": -3
+    },
+    "rare": 7,
+    "series": 69,
+    "sexual_equipable": "Both",
+    "buildup_table": 17,
+    "decorations_num_list": [
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 72,
+    "name": "Kaiser Greaves",
+    "skills": [
+      {
+        "skill_id": 101,
+        "level": 1
+      },
+      {
+        "skill_id": 11,
+        "level": 1
+      }
+    ],
+    "defense": 74,
+    "resistances": {
+      "fire": 4,
+      "water": -4,
+      "ice": -1,
+      "thunder": 1,
+      "dragon": -3
+    },
+    "rare": 7,
+    "series": 70,
+    "sexual_equipable": "Both",
+    "buildup_table": 17,
+    "decorations_num_list": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 74,
+    "name": "",
+    "skills": [],
+    "defense": 54,
+    "resistances": {
+      "fire": -3,
+      "water": -2,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 72,
+    "sexual_equipable": "Both",
+    "buildup_table": 13,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 76,
+    "name": "",
+    "skills": [],
+    "defense": 42,
+    "resistances": {
+      "fire": -2,
+      "water": 2,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "rare": 4,
+    "series": 74,
+    "sexual_equipable": "Both",
+    "buildup_table": 9,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 78,
+    "name": "Rhenoplos Greaves S",
+    "skills": [
+      {
+        "skill_id": 48,
+        "level": 1
+      },
+      {
+        "skill_id": 62,
+        "level": 1
+      }
+    ],
+    "defense": 42,
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": -2,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 76,
+    "sexual_equipable": "Both",
+    "buildup_table": 9,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 80,
+    "name": "Jaggi Shinguards S",
+    "skills": [
+      {
+        "skill_id": 98,
+        "level": 1
+      }
+    ],
+    "defense": 42,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 1,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 78,
+    "sexual_equipable": "Both",
+    "buildup_table": 9,
+    "decorations_num_list": [
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 82,
+    "name": "Bnahabra Boots S",
+    "skills": [
+      {
+        "skill_id": 18,
+        "level": 1
+      },
+      {
+        "skill_id": 52,
+        "level": 1
+      }
+    ],
+    "defense": 34,
+    "resistances": {
+      "fire": -2,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 2
+    },
+    "rare": 4,
+    "series": 80,
+    "sexual_equipable": "Both",
+    "buildup_table": 8,
+    "decorations_num_list": [
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 84,
+    "name": "",
+    "skills": [],
+    "defense": 36,
+    "resistances": {
+      "fire": 0,
+      "water": 4,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 82,
+    "sexual_equipable": "Both",
+    "buildup_table": 9,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 86,
+    "name": "Remobra Feet S",
+    "skills": [
+      {
+        "skill_id": 7,
+        "level": 1
+      }
+    ],
+    "defense": 52,
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 3
+    },
+    "rare": 5,
+    "series": 84,
+    "sexual_equipable": "Both",
+    "buildup_table": 11,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 88,
+    "name": "Droth Greaves S",
+    "skills": [
+      {
+        "skill_id": 13,
+        "level": 3
+      }
+    ],
+    "defense": 42,
+    "resistances": {
+      "fire": -2,
+      "water": 4,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 86,
+    "sexual_equipable": "Both",
+    "buildup_table": 9,
+    "decorations_num_list": [
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 90,
+    "name": "",
+    "skills": [],
+    "defense": 52,
+    "resistances": {
+      "fire": 4,
+      "water": -2,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 5,
+    "series": 88,
+    "sexual_equipable": "Both",
+    "buildup_table": 11,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 92,
+    "name": "Wroggi Greaves S",
+    "skills": [
+      {
+        "skill_id": 50,
+        "level": 1
+      },
+      {
+        "skill_id": 65,
+        "level": 1
+      }
+    ],
+    "defense": 38,
+    "resistances": {
+      "fire": 2,
+      "water": -2,
+      "ice": -4,
+      "thunder": 1,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 90,
+    "sexual_equipable": "Both",
+    "buildup_table": 8,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 94,
+    "name": "Baggi Greaves S",
+    "skills": [
+      {
+        "skill_id": 0,
+        "level": 1
+      }
+    ],
+    "defense": 36,
+    "resistances": {
+      "fire": -4,
+      "water": -1,
+      "ice": 2,
+      "thunder": -1,
+      "dragon": 1
+    },
+    "rare": 4,
+    "series": 92,
+    "sexual_equipable": "Both",
+    "buildup_table": 8,
+    "decorations_num_list": [
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 96,
+    "name": "Arzuros Greaves S",
+    "skills": [],
+    "defense": 36,
+    "resistances": {
+      "fire": -2,
+      "water": 0,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 94,
+    "sexual_equipable": "Both",
+    "buildup_table": 8,
+    "decorations_num_list": [
+      1,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "armor_index": 98,
+    "name": "Volvidon Greaves S",
+    "skills": [
+      {
+        "skill_id": 106,
+        "level": 1
+      },
+      {
+        "skill_id": 65,
+        "level": 2
+      }
+    ],
+    "defense": 50,
+    "resistances": {
+      "fire": 2,
+      "water": -3,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 1
+    },
+    "rare": 4,
+    "series": 96,
+    "sexual_equipable": "Both",
+    "buildup_table": 9,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 100,
+    "name": "Ludroth Greaves S",
+    "skills": [
+      {
+        "skill_id": 30,
+        "level": 2
+      }
+    ],
+    "defense": 48,
+    "resistances": {
+      "fire": -3,
+      "water": 4,
+      "ice": 0,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 98,
+    "sexual_equipable": "Both",
+    "buildup_table": 9,
+    "decorations_num_list": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "armor_index": 102,
+    "name": "Barroth Greaves S",
+    "skills": [
+      {
+        "skill_id": 34,
+        "level": 1
+      },
+      {
+        "skill_id": 55,
+        "level": 1
+      },
+      {
+        "skill_id": 36,
+        "level": 1
+      }
+    ],
+    "defense": 50,
+    "resistances": {
+      "fire": -3,
+      "water": -1,
+      "ice": -1,
+      "thunder": 3,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 100,
+    "sexual_equipable": "Both",
+    "buildup_table": 9,
+    "decorations_num_list": [
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 104,
+    "name": "Khezu Greaves S",
+    "skills": [
+      {
+        "skill_id": 29,
+        "level": 1
+      },
+      {
+        "skill_id": 40,
+        "level": 1
+      },
+      {
+        "skill_id": 58,
+        "level": 1
+      }
+    ],
+    "defense": 38,
+    "resistances": {
+      "fire": -4,
+      "water": 1,
+      "ice": 2,
+      "thunder": 4,
+      "dragon": 1
+    },
+    "rare": 4,
+    "series": 102,
+    "sexual_equipable": "Both",
+    "buildup_table": 8,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 106,
+    "name": "Nargacuga Greaves S",
+    "skills": [
+      {
+        "skill_id": 64,
+        "level": 2
+      },
+      {
+        "skill_id": 5,
+        "level": 1
+      }
+    ],
+    "defense": 60,
+    "resistances": {
+      "fire": -2,
+      "water": 1,
+      "ice": 1,
+      "thunder": -3,
+      "dragon": 1
+    },
+    "rare": 6,
+    "series": 104,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 108,
+    "name": "Barioth Greaves S",
+    "skills": [
+      {
+        "skill_id": 39,
+        "level": 1
+      }
+    ],
+    "defense": 58,
+    "resistances": {
+      "fire": -3,
+      "water": 0,
+      "ice": 3,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 5,
+    "series": 106,
+    "sexual_equipable": "Both",
+    "buildup_table": 11,
+    "decorations_num_list": [
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "armor_index": 110,
+    "name": "Rathian Greaves S",
+    "skills": [
+      {
+        "skill_id": 71,
+        "level": 1
+      },
+      {
+        "skill_id": 89,
+        "level": 1
+      }
+    ],
+    "defense": 52,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "rare": 5,
+    "series": 108,
+    "sexual_equipable": "Both",
+    "buildup_table": 10,
+    "decorations_num_list": [
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 112,
+    "name": "Rathalos Greaves S",
+    "skills": [
+      {
+        "skill_id": 0,
+        "level": 1
+      },
+      {
+        "skill_id": 80,
+        "level": 1
+      }
+    ],
+    "defense": 62,
+    "resistances": {
+      "fire": 3,
+      "water": 1,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": -3
+    },
+    "rare": 6,
+    "series": 110,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 114,
+    "name": "Tigrex Greaves S",
+    "skills": [
+      {
+        "skill_id": 59,
+        "level": 2
+      },
+      {
+        "skill_id": 25,
+        "level": 1
+      }
+    ],
+    "defense": 64,
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": -2
+    },
+    "rare": 6,
+    "series": 112,
+    "sexual_equipable": "Both",
+    "buildup_table": 13,
+    "decorations_num_list": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 116,
+    "name": "Diablos Greaves S",
+    "skills": [
+      {
+        "skill_id": 34,
+        "level": 1
+      },
+      {
+        "skill_id": 36,
+        "level": 1
+      }
+    ],
+    "defense": 64,
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "ice": -3,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "rare": 6,
+    "series": 114,
+    "sexual_equipable": "Both",
+    "buildup_table": 13,
+    "decorations_num_list": [
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 118,
+    "name": "Basarios Greaves S",
+    "skills": [
+      {
+        "skill_id": 45,
+        "level": 1
+      },
+      {
+        "skill_id": 55,
+        "level": 1
+      }
+    ],
+    "defense": 52,
+    "resistances": {
+      "fire": 0,
+      "water": -2,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": -3
+    },
+    "rare": 5,
+    "series": 116,
+    "sexual_equipable": "Both",
+    "buildup_table": 10,
+    "decorations_num_list": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "armor_index": 120,
+    "name": "Zinogre Greaves S",
+    "skills": [
+      {
+        "skill_id": 8,
+        "level": 1
+      },
+      {
+        "skill_id": 32,
+        "level": 2
+      }
+    ],
+    "defense": 62,
+    "resistances": {
+      "fire": 0,
+      "water": -1,
+      "ice": -4,
+      "thunder": 4,
+      "dragon": 1
+    },
+    "rare": 6,
+    "series": 118,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 121,
+    "name": "Golden Hakama",
+    "skills": [
+      {
+        "skill_id": 6,
+        "level": 2
+      },
+      {
+        "skill_id": 8,
+        "level": 1
+      }
+    ],
+    "defense": 70,
+    "resistances": {
+      "fire": 2,
+      "water": 1,
+      "ice": -5,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "rare": 7,
+    "series": 119,
+    "sexual_equipable": "Both",
+    "buildup_table": 15,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 122,
+    "name": "Valstrax Greaves",
+    "skills": [
+      {
+        "skill_id": 102,
+        "level": 1
+      },
+      {
+        "skill_id": 3,
+        "level": 1
+      }
+    ],
+    "defense": 80,
+    "resistances": {
+      "fire": -2,
+      "water": -2,
+      "ice": -2,
+      "thunder": -2,
+      "dragon": 3
+    },
+    "rare": 7,
+    "series": 120,
+    "sexual_equipable": "Both",
+    "buildup_table": 17,
+    "decorations_num_list": [
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "armor_index": 124,
+    "name": "Kulu-Ya-Ku Greaves S",
+    "skills": [
+      {
+        "skill_id": 75,
+        "level": 1
+      },
+      {
+        "skill_id": 5,
+        "level": 2
+      }
+    ],
+    "defense": 38,
+    "resistances": {
+      "fire": 0,
+      "water": -3,
+      "ice": 1,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 122,
+    "sexual_equipable": "Both",
+    "buildup_table": 8,
+    "decorations_num_list": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 126,
+    "name": "Pukei Greaves S",
+    "skills": [
+      {
+        "skill_id": 32,
+        "level": 1
+      },
+      {
+        "skill_id": 26,
+        "level": 1
+      }
+    ],
+    "defense": 50,
+    "resistances": {
+      "fire": 0,
+      "water": 3,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": 1
+    },
+    "rare": 5,
+    "series": 124,
+    "sexual_equipable": "Both",
+    "buildup_table": 10,
+    "decorations_num_list": [
+      3,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 127,
+    "name": "Jyuratodus Greaves",
+    "skills": [
+      {
+        "skill_id": 35,
+        "level": 2
+      }
+    ],
+    "defense": 48,
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 0,
+      "thunder": -3,
+      "dragon": 0
+    },
+    "rare": 5,
+    "series": 125,
+    "sexual_equipable": "Both",
+    "buildup_table": 10,
+    "decorations_num_list": [
+      2,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 129,
+    "name": "Kadachi Greaves S",
+    "skills": [
+      {
+        "skill_id": 32,
+        "level": 1
+      },
+      {
+        "skill_id": 5,
+        "level": 2
+      }
+    ],
+    "defense": 58,
+    "resistances": {
+      "fire": 0,
+      "water": -3,
+      "ice": 0,
+      "thunder": 3,
+      "dragon": 0
+    },
+    "rare": 5,
+    "series": 127,
+    "sexual_equipable": "Both",
+    "buildup_table": 11,
+    "decorations_num_list": [
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 131,
+    "name": "Anjanath Greaves S",
+    "skills": [
+      {
+        "skill_id": 31,
+        "level": 2
+      }
+    ],
+    "defense": 60,
+    "resistances": {
+      "fire": 3,
+      "water": -3,
+      "ice": -1,
+      "thunder": -1,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 129,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 132,
+    "name": "Bazelgeuse Greaves",
+    "skills": [
+      {
+        "skill_id": 44,
+        "level": 2
+      },
+      {
+        "skill_id": 34,
+        "level": 1
+      }
+    ],
+    "defense": 72,
+    "resistances": {
+      "fire": 3,
+      "water": 1,
+      "ice": -2,
+      "thunder": -4,
+      "dragon": -2
+    },
+    "rare": 7,
+    "series": 130,
+    "sexual_equipable": "Both",
+    "buildup_table": 18,
+    "decorations_num_list": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "armor_index": 133,
+    "name": "Chrome Metal Boots",
+    "skills": [
+      {
+        "skill_id": 92,
+        "level": 2
+      }
+    ],
+    "defense": 46,
+    "resistances": {
+      "fire": -2,
+      "water": -2,
+      "ice": -2,
+      "thunder": -2,
+      "dragon": -2
+    },
+    "rare": 5,
+    "series": 131,
+    "sexual_equipable": "Both",
+    "buildup_table": 11,
+    "decorations_num_list": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "armor_index": 135,
+    "name": "",
+    "skills": [],
+    "defense": 56,
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 7,
+    "series": 133,
+    "sexual_equipable": "Both",
+    "buildup_table": 18,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 136,
+    "name": "Black Leather Legs",
+    "skills": [
+      {
+        "skill_id": 103,
+        "level": 2
+      }
+    ],
+    "defense": 60,
+    "resistances": {
+      "fire": 2,
+      "water": 2,
+      "ice": 2,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "rare": 6,
+    "series": 134,
+    "sexual_equipable": "Both",
+    "buildup_table": 13,
+    "decorations_num_list": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "armor_index": 137,
+    "name": "",
+    "skills": [],
+    "defense": 56,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 7,
+    "series": 135,
+    "sexual_equipable": "Both",
+    "buildup_table": 17,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 139,
+    "name": "",
+    "skills": [],
+    "defense": 36,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 137,
+    "sexual_equipable": "Both",
+    "buildup_table": 9,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 140,
+    "name": "",
+    "skills": [],
+    "defense": 60,
+    "resistances": {
+      "fire": 2,
+      "water": 2,
+      "ice": 2,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "rare": 6,
+    "series": 138,
+    "sexual_equipable": "Both",
+    "buildup_table": 13,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 141,
+    "name": "",
+    "skills": [],
+    "defense": 56,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 139,
+    "sexual_equipable": "Both",
+    "buildup_table": 13,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 143,
+    "name": "Sinister Greaves S",
+    "skills": [
+      {
+        "skill_id": 107,
+        "level": 1
+      },
+      {
+        "skill_id": 3,
+        "level": 1
+      },
+      {
+        "skill_id": 92,
+        "level": 1
+      }
+    ],
+    "defense": 64,
+    "resistances": {
+      "fire": 3,
+      "water": -3,
+      "ice": 1,
+      "thunder": -2,
+      "dragon": 1
+    },
+    "rare": 6,
+    "series": 141,
+    "sexual_equipable": "Both",
+    "buildup_table": 13,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 145,
+    "name": "Lagombi Greaves S",
+    "skills": [
+      {
+        "skill_id": 93,
+        "level": 1
+      },
+      {
+        "skill_id": 5,
+        "level": 1
+      }
+    ],
+    "defense": 36,
+    "resistances": {
+      "fire": -3,
+      "water": 1,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 143,
+    "sexual_equipable": "Both",
+    "buildup_table": 8,
+    "decorations_num_list": [
+      2,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 147,
+    "name": "Bone Greaves S",
+    "skills": [
+      {
+        "skill_id": 76,
+        "level": 2
+      },
+      {
+        "skill_id": 29,
+        "level": 1
+      }
+    ],
+    "defense": 32,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": -1,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 4,
+    "series": 145,
+    "sexual_equipable": "Both",
+    "buildup_table": 8,
+    "decorations_num_list": [
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 149,
+    "name": "Mizutsune Greaves S",
+    "skills": [
+      {
+        "skill_id": 63,
+        "level": 1
+      }
+    ],
+    "defense": 60,
+    "resistances": {
+      "fire": 0,
+      "water": 2,
+      "ice": 1,
+      "thunder": -3,
+      "dragon": -1
+    },
+    "rare": 6,
+    "series": 147,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      2,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "armor_index": 151,
+    "name": "",
+    "skills": [],
+    "defense": 56,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 7,
+    "series": 149,
+    "sexual_equipable": "Both",
+    "buildup_table": 18,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 152,
+    "name": "",
+    "skills": [],
+    "defense": 50,
+    "resistances": {
+      "fire": -3,
+      "water": -3,
+      "ice": -3,
+      "thunder": -3,
+      "dragon": 4
+    },
+    "rare": 5,
+    "series": 150,
+    "sexual_equipable": "Both",
+    "buildup_table": 11,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 153,
+    "name": "Brigade Boots S",
+    "skills": [
+      {
+        "skill_id": 94,
+        "level": 1
+      },
+      {
+        "skill_id": 78,
+        "level": 2
+      }
+    ],
+    "defense": 62,
+    "resistances": {
+      "fire": 1,
+      "water": 0,
+      "ice": 0,
+      "thunder": 2,
+      "dragon": 2
+    },
+    "rare": 6,
+    "series": 151,
+    "sexual_equipable": "Both",
+    "buildup_table": 13,
+    "decorations_num_list": [
+      3,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 161,
+    "name": "",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 159,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 162,
+    "name": "Rider Greaves",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 160,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 163,
+    "name": "Floral Zori",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 161,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 164,
+    "name": "Akuma's Legs",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 7,
+    "series": 162,
+    "sexual_equipable": "Both",
+    "buildup_table": 14,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 166,
+    "name": "Azure Age Geta",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 7,
+    "series": 164,
+    "sexual_equipable": "Both",
+    "buildup_table": 14,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 169,
+    "name": "Arthur's Greaves",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 167,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 170,
+    "name": "Guild Cross Boots",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 168,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 171,
+    "name": "",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 7,
+    "series": 169,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 173,
+    "name": "",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 171,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 174,
+    "name": "",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 172,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 175,
+    "name": "",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 173,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 176,
+    "name": "",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 174,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 177,
+    "name": "",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 175,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 178,
+    "name": "Orion Boots",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 176,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 179,
+    "name": "",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 177,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 180,
+    "name": "",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 178,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 181,
+    "name": "",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 179,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 182,
+    "name": "",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 180,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 183,
+    "name": "",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 181,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 184,
+    "name": "Origin Greaves",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 182,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 185,
+    "name": "",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 183,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 186,
+    "name": "Gala Suit Slacks",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 184,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 187,
+    "name": "Blossom Boots",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 185,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 188,
+    "name": "Black Belt Greaves",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 186,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 189,
+    "name": "",
+    "skills": [],
+    "defense": 0,
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 0
+    },
+    "rare": 6,
+    "series": 187,
+    "sexual_equipable": "Both",
+    "buildup_table": 12,
+    "decorations_num_list": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "armor_index": 168,
+    "name": "",
+    "skills": [
+      {
+        "skill_id": 39,
+        "level": 2
+      },
+      {
+        "skill_id": 29,
+        "level": 1
+      }
+    ],
+    "defense": 72,
+    "resistances": {
+      "fire": 2,
+      "water": 2,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 2
+    },
+    "rare": 7,
+    "series": 166,
+    "sexual_equipable": "Both",
+    "buildup_table": 18,
+    "decorations_num_list": [
+      1,
+      1,
+      0,
+      0
+    ]
+  }
+]
