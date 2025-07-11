@@ -1,6 +1,6 @@
 package henry.court.monsterhunterplanner.controller;
 
-import henry.court.monsterhunterplanner.dataClasses.ArmArmor;
+import henry.court.monsterhunterplanner.dataClasses.*;
 import henry.court.monsterhunterplanner.jsonProcessing.ArmorService;
 import henry.court.monsterhunterplanner.jsonProcessing.Skill;
 import henry.court.monsterhunterplanner.jsonProcessing.SkillService;
@@ -27,6 +27,14 @@ public class MenuController {
         model.addAttribute("skills", skills);
         List<ArmArmor> lrArmArmor = armorService.getArmArmorList();
         model.addAttribute("lrArmArmor", lrArmArmor);
+        List<BodyArmor> lrBodyArmor = armorService.getBodyArmorList();
+        model.addAttribute("lrBodyArmor", lrBodyArmor);
+        List<HeadArmor> lrHeadArmor = armorService.getHeadArmorList();
+        model.addAttribute("lrHeadArmor", lrHeadArmor);
+        List<LegArmor> lrLegArmor = armorService.getLegArmorList();
+        model.addAttribute("lrLegArmor", lrLegArmor);
+        List<WaistArmor> lrWaistArmor = armorService.getWaistArmorList();
+        model.addAttribute("lrWaistArmor", lrWaistArmor);
         return "menu";
     }
 

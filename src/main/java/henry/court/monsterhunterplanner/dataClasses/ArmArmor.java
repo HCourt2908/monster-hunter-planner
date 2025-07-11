@@ -7,21 +7,23 @@ import lombok.Setter;
 
 import java.util.Map;
 
-@Getter
-@Setter
-@NoArgsConstructor
-@AllArgsConstructor
-public class ArmArmor {
+public class ArmArmor extends Armor {
 
-    public int index;
-    public String name;
-    public ArmorSkill[] armorSkills;
-    public int defense;
-    public Map<String, Integer> resistances;
-    public int rare;
-    public int series;
-    public String sexualEquipable;
-    public int buildupTable;
-    public int[] decorationsNumList;
+    public ArmArmor(int index,
+                    String name,
+                    ArmorSkill[] armorSkills,
+                    int defense,
+                    Map<String, Integer> resistances,
+                    int rare,
+                    int series,
+                    String sexualEquipable,
+                    int buildupTable,
+                    int[] decorationsNumList) {
+        super(index, name, armorSkills, defense, resistances, rare, series, sexualEquipable, buildupTable, decorationsNumList);
+    }
+
+    public ArmArmor () {
+        super();
+    }
 
 }

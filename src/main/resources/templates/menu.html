@@ -9,6 +9,7 @@
     <body>
 
         <div class="background"></div>
+
         <div class="skillsBox">
             <table>
                 <tr>
@@ -19,10 +20,44 @@
                 </tr>
             </table>
         </div>
-        <div class="headArmor"></div>
-        <div class="waistArmor"></div>
-        <div class="legsArmor"></div>
-        <div class="armsArmor"></div>
+
+        <div class="headArmor">
+            <table>
+                <tr>
+                    <th>Name</th>
+                </tr>
+                <tr th:each="headArmor : ${lrHeadArmor}">
+                    <td th:text="${headArmor.getName()}"></td>
+                    <td th:text="${headArmor.getDefense()}"></td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="waistArmor">
+            <table>
+                <tr>
+                    <th>Name</th>
+                </tr>
+                <tr th:each="waistArmor : ${lrWaistArmor}">
+                    <td th:text="${waistArmor.getName()}"></td>
+                    <td th:text="${waistArmor.getDefense()}"></td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="legsArmor">
+            <table>
+                <tr>
+                    <th>Name</th>
+                </tr>
+                <tr th:each="legArmor : ${lrLegArmor}">
+                    <td th:text="${legArmor.getName()}"></td>
+                    <td th:text="${legArmor.getDefense()}"></td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="armsArmor">
         <table>
             <tr>
                 <th>Name</th>
@@ -32,7 +67,19 @@
                 <td th:text="${ArmArmor.getDefense()}"></td>
             </tr>
         </table>
-        <div class="chestArmor"></div>
+        </div>
+
+        <div class="bodyArmor">
+            <table>
+                <tr>
+                    <th>Name</th>
+                </tr>
+                <tr th:each="bodyArmor : ${lrBodyArmor}">
+                    <td th:text="${bodyArmor.getName()}"></td>
+                    <td th:text="${bodyArmor.getDefense()}"></td>
+                </tr>
+            </table>
+        </div>
         
     </body>
 </html>

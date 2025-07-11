@@ -1,4 +1,4 @@
-package henry.court.monsterhunterplanner.jsonProcessing;
+package henry.court.monsterhunterplanner.jsonProcessing.rawData;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

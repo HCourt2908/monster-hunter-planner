@@ -1,19 +1,28 @@
 package henry.court.monsterhunterplanner.dataClasses;
 
-public class BodyArmor {
 
-    public int index;
-    public String name;
-    public ArmorSkill[] armorSkills;
-    public int defense;
-    public int[] resistances;
+import java.util.Map;
 
-    public BodyArmor(int index, String name, ArmorSkill[] armorSkills, int defense, int[] resistances) {
-        this.index = index;
-        this.name = name;
-        this.armorSkills = armorSkills;
-        this.defense = defense;
-        this.resistances = resistances;
+public class BodyArmor extends Armor{
+
+    public BodyArmor(int index,
+                    String name,
+                    ArmorSkill[] armorSkills,
+                    int defense,
+                    Map<String, Integer> resistances,
+                    int rare,
+                    int series,
+                    String sexualEquipable,
+                    int buildupTable,
+                    int[] decorationsNumList) {
+        super(index, name, armorSkills, defense, resistances, rare, series, sexualEquipable, buildupTable, decorationsNumList);
     }
+
+    public BodyArmor () {
+        super();
+    }
+
+
+
 
 }
