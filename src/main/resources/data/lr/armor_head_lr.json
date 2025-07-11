@@ -976,29 +976,6 @@
     ]
   },
   {
-    "armor_index": 79,
-    "name": "",
-    "skills": [],
-    "defense": 14,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 1,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 2,
-    "series": 77,
-    "sexual_equipable": "Both",
-    "buildup_table": 2,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "armor_index": 81,
     "name": "Bnahabra Hat",
     "skills": [
@@ -1073,52 +1050,6 @@
     },
     "rare": 2,
     "series": 83,
-    "sexual_equipable": "Both",
-    "buildup_table": 3,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 87,
-    "name": "",
-    "skills": [],
-    "defense": 14,
-    "resistances": {
-      "fire": -2,
-      "water": 4,
-      "ice": 0,
-      "thunder": -1,
-      "dragon": 0
-    },
-    "rare": 2,
-    "series": 85,
-    "sexual_equipable": "Both",
-    "buildup_table": 2,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 89,
-    "name": "",
-    "skills": [],
-    "defense": 18,
-    "resistances": {
-      "fire": 4,
-      "water": -2,
-      "ice": -1,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 2,
-    "series": 87,
     "sexual_equipable": "Both",
     "buildup_table": 3,
     "decorations_num_list": [
@@ -1963,29 +1894,6 @@
     },
     "rare": 3,
     "series": 156,
-    "sexual_equipable": "Both",
-    "buildup_table": 4,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 159,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 3,
-    "series": 157,
     "sexual_equipable": "Both",
     "buildup_table": 4,
     "decorations_num_list": [

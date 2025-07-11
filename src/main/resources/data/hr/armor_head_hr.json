@@ -1420,29 +1420,6 @@
     ]
   },
   {
-    "armor_index": 80,
-    "name": "",
-    "skills": [],
-    "defense": 42,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 1,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 4,
-    "series": 78,
-    "sexual_equipable": "Both",
-    "buildup_table": 9,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "armor_index": 82,
     "name": "Bnahabra Hat S",
     "skills": [
@@ -1526,52 +1503,6 @@
     "decorations_num_list": [
       0,
       1,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 88,
-    "name": "",
-    "skills": [],
-    "defense": 42,
-    "resistances": {
-      "fire": -2,
-      "water": 4,
-      "ice": 0,
-      "thunder": -1,
-      "dragon": 0
-    },
-    "rare": 4,
-    "series": 86,
-    "sexual_equipable": "Both",
-    "buildup_table": 9,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 90,
-    "name": "",
-    "skills": [],
-    "defense": 52,
-    "resistances": {
-      "fire": 4,
-      "water": -2,
-      "ice": -1,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 5,
-    "series": 88,
-    "sexual_equipable": "Both",
-    "buildup_table": 11,
-    "decorations_num_list": [
-      0,
-      0,
       0,
       0
     ]
@@ -2301,29 +2232,6 @@
     ]
   },
   {
-    "armor_index": 133,
-    "name": "",
-    "skills": [],
-    "defense": 46,
-    "resistances": {
-      "fire": -2,
-      "water": -2,
-      "ice": -2,
-      "thunder": -2,
-      "dragon": -2
-    },
-    "rare": 5,
-    "series": 131,
-    "sexual_equipable": "Both",
-    "buildup_table": 11,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "armor_index": 135,
     "name": "Flame Seal",
     "skills": [
@@ -2344,29 +2252,6 @@
     "series": 133,
     "sexual_equipable": "Both",
     "buildup_table": 18,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 136,
-    "name": "",
-    "skills": [],
-    "defense": 60,
-    "resistances": {
-      "fire": 2,
-      "water": 2,
-      "ice": 2,
-      "thunder": 2,
-      "dragon": 2
-    },
-    "rare": 6,
-    "series": 134,
-    "sexual_equipable": "Both",
-    "buildup_table": 13,
     "decorations_num_list": [
       0,
       0,
@@ -3250,61 +3135,6 @@
     "decorations_num_list": [
       0,
       0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 189,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 6,
-    "series": 187,
-    "sexual_equipable": "Both",
-    "buildup_table": 12,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 168,
-    "name": "",
-    "skills": [
-      {
-        "skill_id": 32,
-        "level": 2
-      },
-      {
-        "skill_id": 13,
-        "level": 2
-      }
-    ],
-    "defense": 72,
-    "resistances": {
-      "fire": 2,
-      "water": 2,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 2
-    },
-    "rare": 7,
-    "series": 166,
-    "sexual_equipable": "Both",
-    "buildup_table": 18,
-    "decorations_num_list": [
-      1,
-      1,
       0,
       0
     ]

@@ -1363,29 +1363,6 @@
     ]
   },
   {
-    "armor_index": 74,
-    "name": "",
-    "skills": [],
-    "defense": 54,
-    "resistances": {
-      "fire": -3,
-      "water": -2,
-      "ice": 1,
-      "thunder": -2,
-      "dragon": 0
-    },
-    "rare": 6,
-    "series": 72,
-    "sexual_equipable": "Both",
-    "buildup_table": 13,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "armor_index": 76,
     "name": "Slagtoth Cloak S",
     "skills": [
@@ -1446,29 +1423,6 @@
     ]
   },
   {
-    "armor_index": 80,
-    "name": "",
-    "skills": [],
-    "defense": 42,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 1,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 4,
-    "series": 78,
-    "sexual_equipable": "Both",
-    "buildup_table": 9,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "armor_index": 82,
     "name": "Bnahabra Suit S",
     "skills": [
@@ -1495,29 +1449,6 @@
     "buildup_table": 8,
     "decorations_num_list": [
       2,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 84,
-    "name": "",
-    "skills": [],
-    "defense": 36,
-    "resistances": {
-      "fire": 0,
-      "water": 4,
-      "ice": 0,
-      "thunder": -2,
-      "dragon": 0
-    },
-    "rare": 4,
-    "series": 82,
-    "sexual_equipable": "Both",
-    "buildup_table": 9,
-    "decorations_num_list": [
-      0,
       0,
       0,
       0
@@ -2344,167 +2275,6 @@
     ]
   },
   {
-    "armor_index": 133,
-    "name": "",
-    "skills": [],
-    "defense": 46,
-    "resistances": {
-      "fire": -2,
-      "water": -2,
-      "ice": -2,
-      "thunder": -2,
-      "dragon": -2
-    },
-    "rare": 5,
-    "series": 131,
-    "sexual_equipable": "Both",
-    "buildup_table": 11,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 135,
-    "name": "",
-    "skills": [],
-    "defense": 56,
-    "resistances": {
-      "fire": 3,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 7,
-    "series": 133,
-    "sexual_equipable": "Both",
-    "buildup_table": 18,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 136,
-    "name": "",
-    "skills": [],
-    "defense": 60,
-    "resistances": {
-      "fire": 2,
-      "water": 2,
-      "ice": 2,
-      "thunder": 2,
-      "dragon": 2
-    },
-    "rare": 6,
-    "series": 134,
-    "sexual_equipable": "Both",
-    "buildup_table": 13,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 137,
-    "name": "",
-    "skills": [],
-    "defense": 56,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 7,
-    "series": 135,
-    "sexual_equipable": "Both",
-    "buildup_table": 17,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 139,
-    "name": "",
-    "skills": [],
-    "defense": 36,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 4,
-    "series": 137,
-    "sexual_equipable": "Both",
-    "buildup_table": 9,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 140,
-    "name": "",
-    "skills": [],
-    "defense": 60,
-    "resistances": {
-      "fire": 2,
-      "water": 2,
-      "ice": 2,
-      "thunder": 2,
-      "dragon": 2
-    },
-    "rare": 6,
-    "series": 138,
-    "sexual_equipable": "Both",
-    "buildup_table": 13,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 141,
-    "name": "",
-    "skills": [],
-    "defense": 56,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 6,
-    "series": 139,
-    "sexual_equipable": "Both",
-    "buildup_table": 13,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "armor_index": 143,
     "name": "Sinister Garb S",
     "skills": [
@@ -2633,52 +2403,6 @@
     ]
   },
   {
-    "armor_index": 151,
-    "name": "",
-    "skills": [],
-    "defense": 56,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 7,
-    "series": 149,
-    "sexual_equipable": "Both",
-    "buildup_table": 18,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 152,
-    "name": "",
-    "skills": [],
-    "defense": 50,
-    "resistances": {
-      "fire": -3,
-      "water": -3,
-      "ice": -3,
-      "thunder": -3,
-      "dragon": 4
-    },
-    "rare": 5,
-    "series": 150,
-    "sexual_equipable": "Both",
-    "buildup_table": 11,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "armor_index": 153,
     "name": "Brigade Suit S",
     "skills": [
@@ -2705,29 +2429,6 @@
     "buildup_table": 13,
     "decorations_num_list": [
       1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 161,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 6,
-    "series": 159,
-    "sexual_equipable": "Both",
-    "buildup_table": 12,
-    "decorations_num_list": [
-      0,
       0,
       0,
       0
@@ -2872,144 +2573,6 @@
     ]
   },
   {
-    "armor_index": 171,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 7,
-    "series": 169,
-    "sexual_equipable": "Both",
-    "buildup_table": 12,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 173,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 6,
-    "series": 171,
-    "sexual_equipable": "Both",
-    "buildup_table": 12,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 174,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 6,
-    "series": 172,
-    "sexual_equipable": "Both",
-    "buildup_table": 12,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 175,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 6,
-    "series": 173,
-    "sexual_equipable": "Both",
-    "buildup_table": 12,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 176,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 6,
-    "series": 174,
-    "sexual_equipable": "Both",
-    "buildup_table": 12,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 177,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 6,
-    "series": 175,
-    "sexual_equipable": "Both",
-    "buildup_table": 12,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "armor_index": 178,
     "name": "Orion Vest",
     "skills": [],
@@ -3033,121 +2596,6 @@
     ]
   },
   {
-    "armor_index": 179,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 6,
-    "series": 177,
-    "sexual_equipable": "Both",
-    "buildup_table": 12,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 180,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 6,
-    "series": 178,
-    "sexual_equipable": "Both",
-    "buildup_table": 12,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 181,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 6,
-    "series": 179,
-    "sexual_equipable": "Both",
-    "buildup_table": 12,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 182,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 6,
-    "series": 180,
-    "sexual_equipable": "Both",
-    "buildup_table": 12,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 183,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 6,
-    "series": 181,
-    "sexual_equipable": "Both",
-    "buildup_table": 12,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "armor_index": 184,
     "name": "Origin Mail",
     "skills": [],
@@ -3161,29 +2609,6 @@
     },
     "rare": 6,
     "series": 182,
-    "sexual_equipable": "Both",
-    "buildup_table": 12,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 185,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 6,
-    "series": 183,
     "sexual_equipable": "Both",
     "buildup_table": 12,
     "decorations_num_list": [
@@ -3281,38 +2706,6 @@
     "decorations_num_list": [
       0,
       0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 168,
-    "name": "",
-    "skills": [
-      {
-        "skill_id": 32,
-        "level": 2
-      },
-      {
-        "skill_id": 7,
-        "level": 1
-      }
-    ],
-    "defense": 72,
-    "resistances": {
-      "fire": 2,
-      "water": 2,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 2
-    },
-    "rare": 7,
-    "series": 166,
-    "sexual_equipable": "Both",
-    "buildup_table": 18,
-    "decorations_num_list": [
-      0,
-      1,
       0,
       0
     ]

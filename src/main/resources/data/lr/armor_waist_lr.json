@@ -400,29 +400,6 @@
     ]
   },
   {
-    "armor_index": 30,
-    "name": "",
-    "skills": [],
-    "defense": 12,
-    "resistances": {
-      "fire": 2,
-      "water": -2,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 2,
-    "series": 30,
-    "sexual_equipable": "Both",
-    "buildup_table": 2,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "armor_index": 32,
     "name": "Edel Folia",
     "skills": [
@@ -875,52 +852,6 @@
     ]
   },
   {
-    "armor_index": 73,
-    "name": "",
-    "skills": [],
-    "defense": 14,
-    "resistances": {
-      "fire": -3,
-      "water": -2,
-      "ice": 1,
-      "thunder": -2,
-      "dragon": 0
-    },
-    "rare": 2,
-    "series": 71,
-    "sexual_equipable": "Both",
-    "buildup_table": 3,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 75,
-    "name": "",
-    "skills": [],
-    "defense": 14,
-    "resistances": {
-      "fire": -2,
-      "water": 2,
-      "ice": -1,
-      "thunder": 0,
-      "dragon": 1
-    },
-    "rare": 2,
-    "series": 73,
-    "sexual_equipable": "Both",
-    "buildup_table": 2,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "armor_index": 77,
     "name": "Rhenoplos Coil",
     "skills": [
@@ -939,29 +870,6 @@
     },
     "rare": 2,
     "series": 75,
-    "sexual_equipable": "Both",
-    "buildup_table": 2,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 79,
-    "name": "",
-    "skills": [],
-    "defense": 14,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 1,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 2,
-    "series": 77,
     "sexual_equipable": "Both",
     "buildup_table": 2,
     "decorations_num_list": [
@@ -992,29 +900,6 @@
     "series": 79,
     "sexual_equipable": "Both",
     "buildup_table": 2,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 83,
-    "name": "",
-    "skills": [],
-    "defense": 14,
-    "resistances": {
-      "fire": 0,
-      "water": 4,
-      "ice": 0,
-      "thunder": -2,
-      "dragon": 0
-    },
-    "rare": 2,
-    "series": 81,
-    "sexual_equipable": "Both",
-    "buildup_table": 3,
     "decorations_num_list": [
       0,
       0,
@@ -1655,52 +1540,6 @@
     ]
   },
   {
-    "armor_index": 134,
-    "name": "",
-    "skills": [],
-    "defense": 28,
-    "resistances": {
-      "fire": -3,
-      "water": -3,
-      "ice": -3,
-      "thunder": -3,
-      "dragon": 4
-    },
-    "rare": 3,
-    "series": 132,
-    "sexual_equipable": "Both",
-    "buildup_table": 5,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 138,
-    "name": "",
-    "skills": [],
-    "defense": 14,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 2,
-    "series": 136,
-    "sexual_equipable": "Both",
-    "buildup_table": 3,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "armor_index": 142,
     "name": "Sinister Tassets",
     "skills": [
@@ -1891,75 +1730,6 @@
     ]
   },
   {
-    "armor_index": 157,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 3,
-    "series": 155,
-    "sexual_equipable": "Both",
-    "buildup_table": 4,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 158,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 3,
-    "series": 156,
-    "sexual_equipable": "Both",
-    "buildup_table": 4,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 159,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 3,
-    "series": 157,
-    "sexual_equipable": "Both",
-    "buildup_table": 4,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "armor_index": 172,
     "name": "Diver's Belt",
     "skills": [
@@ -1984,38 +1754,6 @@
     "series": 170,
     "sexual_equipable": "Both",
     "buildup_table": 6,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 190,
-    "name": "",
-    "skills": [
-      {
-        "skill_id": 60,
-        "level": 1
-      },
-      {
-        "skill_id": 32,
-        "level": 1
-      }
-    ],
-    "defense": 30,
-    "resistances": {
-      "fire": 1,
-      "water": 1,
-      "ice": 1,
-      "thunder": 1,
-      "dragon": 1
-    },
-    "rare": 3,
-    "series": 188,
-    "sexual_equipable": "Both",
-    "buildup_table": 7,
     "decorations_num_list": [
       0,
       0,

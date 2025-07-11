@@ -891,29 +891,6 @@
     ]
   },
   {
-    "armor_index": 73,
-    "name": "",
-    "skills": [],
-    "defense": 14,
-    "resistances": {
-      "fire": -3,
-      "water": -2,
-      "ice": 1,
-      "thunder": -2,
-      "dragon": 0
-    },
-    "rare": 2,
-    "series": 71,
-    "sexual_equipable": "Both",
-    "buildup_table": 3,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "armor_index": 75,
     "name": "Slagtoth Cloak",
     "skills": [
@@ -974,29 +951,6 @@
     ]
   },
   {
-    "armor_index": 79,
-    "name": "",
-    "skills": [],
-    "defense": 14,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 1,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 2,
-    "series": 77,
-    "sexual_equipable": "Both",
-    "buildup_table": 2,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "armor_index": 81,
     "name": "Bnahabra Suit",
     "skills": [
@@ -1017,29 +971,6 @@
     "series": 79,
     "sexual_equipable": "Both",
     "buildup_table": 2,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 83,
-    "name": "",
-    "skills": [],
-    "defense": 14,
-    "resistances": {
-      "fire": 0,
-      "water": 4,
-      "ice": 0,
-      "thunder": -2,
-      "dragon": 0
-    },
-    "rare": 2,
-    "series": 81,
-    "sexual_equipable": "Both",
-    "buildup_table": 3,
     "decorations_num_list": [
       0,
       0,
@@ -1684,52 +1615,6 @@
     ]
   },
   {
-    "armor_index": 134,
-    "name": "",
-    "skills": [],
-    "defense": 28,
-    "resistances": {
-      "fire": -3,
-      "water": -3,
-      "ice": -3,
-      "thunder": -3,
-      "dragon": 4
-    },
-    "rare": 3,
-    "series": 132,
-    "sexual_equipable": "Both",
-    "buildup_table": 5,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 138,
-    "name": "",
-    "skills": [],
-    "defense": 14,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 2,
-    "series": 136,
-    "sexual_equipable": "Both",
-    "buildup_table": 3,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
     "armor_index": 142,
     "name": "Sinister Garb",
     "skills": [
@@ -1914,52 +1799,6 @@
     },
     "rare": 3,
     "series": 153,
-    "sexual_equipable": "Both",
-    "buildup_table": 4,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 157,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 3,
-    "series": 155,
-    "sexual_equipable": "Both",
-    "buildup_table": 4,
-    "decorations_num_list": [
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "armor_index": 158,
-    "name": "",
-    "skills": [],
-    "defense": 0,
-    "resistances": {
-      "fire": 0,
-      "water": 0,
-      "ice": 0,
-      "thunder": 0,
-      "dragon": 0
-    },
-    "rare": 3,
-    "series": 156,
     "sexual_equipable": "Both",
     "buildup_table": 4,
     "decorations_num_list": [
