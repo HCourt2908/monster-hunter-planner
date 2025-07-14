@@ -3,6 +3,7 @@
     
     <head>
         <link th:href="@{/css/menu.css}" rel="stylesheet" >
+        <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
         <title>Armor Planner</title>
     </head>
 
@@ -12,13 +13,14 @@
 
         <div class="skillsBox">
             <table>
-                <tr>
+                <!--<tr>
                     <th>Name</th>
                 </tr>
                 <tr th:each="skill : ${skills}">
                     <td th:text="${skill.name}"></td>
-                </tr>
+                </tr> -->
             </table>
+            <ul id="output"></ul>
         </div>
 
         <div class="headArmor">
@@ -70,16 +72,63 @@
         </div>
 
         <div class="bodyArmor">
-            <table>
-                <tr>
-                    <th>Name</th>
-                </tr>
-                <tr th:each="bodyArmor : ${lrBodyArmor}">
-                    <td th:text="${bodyArmor.getName()}"></td>
-                    <td th:text="${bodyArmor.getDefense()}"></td>
-                </tr>
-            </table>
+            <div id="bodyArmorTable">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Defense</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr th:each="bodyArmor : ${lrBodyArmor}">
+                            <td th:text="${bodyArmor.getName()}"></td>
+                            <td th:text="${bodyArmor.getDefense()}"></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div id="bodyArmorSelected" style="display: none">
+                <p id="bodySelectedText"></p>
+                <button id="bodyBackButton">Back to list</button>
+            </div>
         </div>
+
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+        <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+
+        <script>
+            $(document).ready(function() {
+                const $bodyArmorTable = $('#bodyArmorTable');
+                const $selectedBodyDiv = $('#bodyArmorSelected');
+                const $selectedText = $('#bodySelectedText');
+
+                $('.bodyArmor table').DataTable({
+                    paging: false,
+                    lengthChange: false,
+                    searching: true,
+                    ordering: false,
+                    info: false
+                });
+
+                $('.bodyArmor tbody').on('click', 'tr', function() {
+                    const name = $(this).find('td').eq(0).text();
+                    const defense = $(this).find('td').eq(1).text();
+
+                    $selectedText.text(`Selected Armor: ${name} (Defense: ${defense})`);
+                    $bodyArmorTable.hide();
+                    $selectedBodyDiv.show();
+
+                });
+
+                $('#bodyBackButton').on('click', function() {
+                    $selectedBodyDiv.hide();
+                    $bodyArmorTable.show();
+                });
+
+            });
+        </script>
         
     </body>
 </html>
