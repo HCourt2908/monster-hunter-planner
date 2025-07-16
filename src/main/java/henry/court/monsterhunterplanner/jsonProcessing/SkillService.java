@@ -34,6 +34,7 @@ public class SkillService {
             });
             skillsMap = skills.stream().collect(Collectors.toMap(Skill::getId, Function.identity()));
         }
+
     }
 
     public Skill getSkillById(int id) {

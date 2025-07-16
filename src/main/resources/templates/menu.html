@@ -1,29 +1,18 @@
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
-    
+
     <head>
         <link th:href="@{/css/menu.css}" rel="stylesheet" >
         <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
         <title>Armor Planner</title>
     </head>
-
+    
     <body>
 
         <div class="background"></div>
 
-        <div class="skillsBox">
-            <table>
-                <!--<tr>
-                    <th>Name</th>
-                </tr>
-                <tr th:each="skill : ${skills}">
-                    <td th:text="${skill.name}"></td>
-                </tr> -->
-            </table>
-            <ul id="output"></ul>
-        </div>
-
         <div class="headArmor">
+
             <table>
                 <tr>
                     <th>Name</th>
@@ -33,9 +22,53 @@
                     <td th:text="${headArmor.getDefense()}"></td>
                 </tr>
             </table>
+
+        </div>
+
+        <div class="armArmor">
+
+            <table>
+                <tr>
+                    <th>Name</th>
+                </tr>
+                <tr th:each="ArmArmor : ${lrArmArmor}">
+                    <td th:text="${ArmArmor.getName()}"></td>
+                    <td th:text="${ArmArmor.getDefense()}"></td>
+                </tr>
+            </table>
+
+        </div>
+
+        <div class="bodyArmor">
+
+            <div id="bodyArmorTable">
+                <table>
+                    <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Defense</th>
+                        <th>Skills</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr th:each="bodyArmor : ${lrBodyArmor}">
+                        <td th:text="${bodyArmor.getName()}"></td>
+                        <td th:text="${bodyArmor.getDefense()}"></td>
+                        <td th:text="${bodyArmor.printSkills()}"></td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div id="bodyArmorSelected" style="display: none">
+                <p id="bodySelectedText"></p>
+                <button id="bodyBackButton">Back to list</button>
+            </div>
+
         </div>
 
         <div class="waistArmor">
+
             <table>
                 <tr>
                     <th>Name</th>
@@ -45,9 +78,11 @@
                     <td th:text="${waistArmor.getDefense()}"></td>
                 </tr>
             </table>
+
         </div>
 
-        <div class="legsArmor">
+        <div class="legArmor">
+
             <table>
                 <tr>
                     <th>Name</th>
@@ -57,42 +92,13 @@
                     <td th:text="${legArmor.getDefense()}"></td>
                 </tr>
             </table>
+
         </div>
 
-        <div class="armsArmor">
-        <table>
-            <tr>
-                <th>Name</th>
-            </tr>
-            <tr th:each="ArmArmor : ${lrArmArmor}">
-                <td th:text="${ArmArmor.getName()}"></td>
-                <td th:text="${ArmArmor.getDefense()}"></td>
-            </tr>
-        </table>
-        </div>
+        <div class="overallArmor">
 
-        <div class="bodyArmor">
-            <div id="bodyArmorTable">
-                <table>
-                    <thead>
-                        <tr>
-                            <th>Name</th>
-                            <th>Defense</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr th:each="bodyArmor : ${lrBodyArmor}">
-                            <td th:text="${bodyArmor.getName()}"></td>
-                            <td th:text="${bodyArmor.getDefense()}"></td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
+            <ul id="output"></ul>
 
-            <div id="bodyArmorSelected" style="display: none">
-                <p id="bodySelectedText"></p>
-                <button id="bodyBackButton">Back to list</button>
-            </div>
         </div>
 
         <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
@@ -129,6 +135,7 @@
 
             });
         </script>
-        
+
     </body>
+    
 </html>

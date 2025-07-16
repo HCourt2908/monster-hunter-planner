@@ -6,6 +6,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 import java.util.Map;
+import java.util.StringJoiner;
 
 @Getter
 @Setter
@@ -23,5 +24,13 @@ public class Armor {
     public String sexualEquipable;
     public int buildupTable;
     public int[] decorationsNumList;
+
+    public String printSkills() {
+        StringJoiner retStr = new StringJoiner(", ");
+        for (ArmorSkill x : armorSkills) {
+            retStr.add(x.toString());
+        }
+        return retStr.toString();
+    }
 
 }

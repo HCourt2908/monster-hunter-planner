@@ -12,4 +12,9 @@ public class ArmorSkill {
         this.level = level;
     }
 
+    @Override
+    public String toString() {
+        return skill.getName() + ":" + level;
+    }
+
 }
