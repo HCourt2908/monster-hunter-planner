@@ -3,81 +3,129 @@
 }
 body {
   font-size: 1.75vh; /* same as 14px out of 400px */
-}
-
-.background {
-  width: 100vw;
-  height: 100vh;
-  background: rgba(217, 217, 217, 1);
-  opacity: 1;
-  position: absolute;
-  top: 0;
-  left: 0;
-  overflow: hidden;
+  background-image: url('../images/background.jpg');
 }
 
 .headArmor {
-  width: 93.75vw;
-  height: 10vh;
-  background: mediumvioletred;
-  opacity: 1;
-  position: absolute;
-  top: 7.5vh;
-  left: 3.125vw;
-  overflow: auto;
+  top: 3.75vh;
 }
 
 .armArmor {
-  width: 93.75vw;
-  height: 10vh;
-  background: mediumvioletred;
-  opacity: 1;
-  position: absolute;
-  top: 22.5vh;
-  left: 3.125vw;
-  overflow: auto;
+  top: 18.75vh;
 }
 
 .bodyArmor {
-  width: 93.75vw;
-  height: 10vh;
-  background: mediumvioletred;
-  opacity: 1;
-  position: absolute;
-  top: 37.5vh;
-  left: 3.125vw;
-  overflow: auto;
+  top: 33.75vh;
 }
 
 .waistArmor {
-  width: 93.75vw;
-  height: 10vh;
-  background: mediumvioletred;
-  opacity: 1;
-  position: absolute;
-  top: 52.5vh;
-  left: 3.125vw;
-  overflow: auto;
+  top: 48.75vh;
 }
 
 .legArmor {
-  width: 93.75vw;
-  height: 10vh;
-  background: mediumvioletred;
-  opacity: 1;
-  position: absolute;
-  top: 67.5vh;
-  left: 3.125vw;
-  overflow: auto;
+  top: 63.75vh;
 }
 
 .overallArmor {
+  top: 82.5vh;
+}
+
+.headArmor, .armArmor, .bodyArmor, .waistArmor, .legArmor, .overallArmor {
   width: 93.75vw;
-  height: 10vh;
-  background: mediumvioletred;
+  height: 15vh;
+  background-color: #d1d1d1;
+  color: black;
+  border: 4px solid #3d3d3d;
+  border-radius: 5px;
   opacity: 1;
   position: absolute;
-  top: 82.5vh;
   left: 3.125vw;
   overflow: auto;
+  scrollbar-color: #3d3d3d #5a5a5a;
+  scrollbar-width: thin;
+}
+
+.headArmor::-webkit-scrollbar,
+.armArmor::-webkit-scrollbar,
+.bodyArmor::-webkit-scrollbar,
+.waistArmor::-webkit-scrollbar,
+.legArmor::-webkit-scrollbar,
+.overallArmor::-webkit-scrollbar{
+  width: 10px;
+}
+
+.headArmor::-webkit-scrollbar-track,
+.armArmor::-webkit-scrollbar-track,
+.bodyArmor::-webkit-scrollbar-track,
+.waistArmor::-webkit-scrollbar-track,
+.legArmor::-webkit-scrollbar-track,
+.overallArmor::-webkit-scrollbar-track{
+  background: #5a5a5a;
+  border-radius: 10px;
+}
+
+.headArmor::-webkit-scrollbar-thumb,
+.armArmor::-webkit-scrollbar-thumb,
+.bodyArmor::-webkit-scrollbar-thumb,
+.waistArmor::-webkit-scrollbar-thumb,
+.legArmor::-webkit-scrollbar-thumb,
+.overallArmor::-webkit-scrollbar-thumb{
+  background-color: #3d3d3d;
+  border-radius: 10px;
+  border: 2px solid #5a5a5a;
+}
+
+.elementIcon {
+  width: 1.75vh;
+  height: 1.75vh;
+  vertical-align: middle;
+  margin-right: 0.625vh;
+}
+
+.bodyResistances {
+  display: flex;
+  gap: 15px;
+}
+
+#bodyArmorPreview table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#bodyArmorPreview th,
+#bodyArmorPreview td {
+  padding: 4px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+#bodyArmorDropdown {
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+#bodyArmorDropdown table {
+  margin-top: 0px;
+}
+
+#bodyArmorDropdown td,
+#bodyArmorDropdown th {
+  padding: 4px 8px;
+}
+
+#bodyArmorDropdown {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+#bodyArmorDropdown table.dataTable {
+  margin-top: 0 !important;
+  border-spacing: 0 !important;
+  border-collapse: collapse !important;
+}
+
+div.dataTables_wrapper {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
 }
