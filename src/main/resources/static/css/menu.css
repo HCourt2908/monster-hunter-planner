@@ -1,36 +1,13 @@
 * {
   box-sizing: border-box;
 }
+
 body {
-  font-size: 1.75vh; /* same as 14px out of 400px */
+  font-size: 1.75vh;
   background-image: url('../images/background.jpg');
 }
 
-.headArmor {
-  top: 3.75vh;
-}
-
-.armArmor {
-  top: 18.75vh;
-}
-
-.bodyArmor {
-  top: 33.75vh;
-}
-
-.waistArmor {
-  top: 48.75vh;
-}
-
-.legArmor {
-  top: 63.75vh;
-}
-
-.overallArmor {
-  top: 82.5vh;
-}
-
-.headArmor, .armArmor, .bodyArmor, .waistArmor, .legArmor, .overallArmor {
+.armor-part, .overallArmor {
   width: 93.75vw;
   height: 15vh;
   background-color: #d1d1d1;
@@ -45,31 +22,18 @@ body {
   scrollbar-width: thin;
 }
 
-.headArmor::-webkit-scrollbar,
-.armArmor::-webkit-scrollbar,
-.bodyArmor::-webkit-scrollbar,
-.waistArmor::-webkit-scrollbar,
-.legArmor::-webkit-scrollbar,
-.overallArmor::-webkit-scrollbar{
-  width: 10px;
-}
+/* Specific positioning for each part */
+.headArmor { top: 3.75vh; }
+.armArmor { top: 18.75vh; }
+.bodyArmor { top: 33.75vh; }
+.waistArmor { top: 48.75vh; }
+.legArmor { top: 63.75vh; }
+.overallArmor { top: 82.5vh; }
 
-.headArmor::-webkit-scrollbar-track,
-.armArmor::-webkit-scrollbar-track,
-.bodyArmor::-webkit-scrollbar-track,
-.waistArmor::-webkit-scrollbar-track,
-.legArmor::-webkit-scrollbar-track,
-.overallArmor::-webkit-scrollbar-track{
-  background: #5a5a5a;
-  border-radius: 10px;
-}
-
-.headArmor::-webkit-scrollbar-thumb,
-.armArmor::-webkit-scrollbar-thumb,
-.bodyArmor::-webkit-scrollbar-thumb,
-.waistArmor::-webkit-scrollbar-thumb,
-.legArmor::-webkit-scrollbar-thumb,
-.overallArmor::-webkit-scrollbar-thumb{
+/* Scrollbar styles for all armor parts */
+.armor-part::-webkit-scrollbar { width: 10px; }
+.armor-part::-webkit-scrollbar-track { background: #5a5a5a; border-radius: 10px; }
+.armor-part::-webkit-scrollbar-thumb {
   background-color: #3d3d3d;
   border-radius: 10px;
   border: 2px solid #5a5a5a;
@@ -87,39 +51,28 @@ body {
   gap: 15px;
 }
 
-#bodyArmorPreview table {
+/* Generic styles for the tables inside the fragment */
+.armor-part table {
   table-layout: fixed;
   width: 100%;
   border-collapse: collapse;
 }
 
-#bodyArmorPreview th,
-#bodyArmorPreview td {
+.armor-part th,
+.armor-part td {
   padding: 4px;
   border: 1px solid #ccc;
   text-align: left;
 }
 
-#bodyArmorDropdown {
-  padding-top: 0px;
-  margin-top: 0px;
+/* Styles for the dropdown tables */
+div[id$='Dropdown'] {
+  padding-top: 0px !important;
+  margin-top: 0px !important;
 }
 
-#bodyArmorDropdown table {
-  margin-top: 0px;
-}
-
-#bodyArmorDropdown td,
-#bodyArmorDropdown th {
-  padding: 4px 8px;
-}
-
-#bodyArmorDropdown {
-  padding-top: 0 !important;
-  margin-top: 0 !important;
-}
-
-#bodyArmorDropdown table.dataTable {
+/* DataTables specific styles */
+div[id$='Dropdown'] table.dataTable {
   margin-top: 0 !important;
   border-spacing: 0 !important;
   border-collapse: collapse !important;

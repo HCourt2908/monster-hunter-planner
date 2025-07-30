@@ -1,182 +1,24 @@
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <link th:href="@{/css/menu.css}" rel="stylesheet" >
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+    <title>Armor Planner</title>
+</head>
+<body>
+<div class="background"></div>
 
-    <head>
-        <link th:href="@{/css/menu.css}" rel="stylesheet" >
-        <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
-        <title>Armor Planner</title>
-    </head>
-    
-    <body>
+<div th:replace="~{armorPart :: armorPart('head', ${lrHeadArmor}, 'headArmor')}"></div>
+<div th:replace="~{armorPart :: armorPart('arm', ${lrArmArmor}, 'armArmor')}"></div>
+<div th:replace="~{armorPart :: armorPart('body', ${lrBodyArmor}, 'bodyArmor')}"></div>
+<div th:replace="~{armorPart :: armorPart('waist', ${lrWaistArmor}, 'waistArmor')}"></div>
+<div th:replace="~{armorPart :: armorPart('leg', ${lrLegArmor}, 'legArmor')}"></div>
 
-        <div class="background"></div>
-
-
-
-        <div class="headArmor">
-
-            <table>
-                <tr>
-                    <th>Name</th>
-                </tr>
-                <tr th:each="headArmor : ${lrHeadArmor}">
-                    <td th:text="${headArmor.getName()}"></td>
-                    <td th:text="${headArmor.getDefense()}"></td>
-                </tr>
-            </table>
-
-        </div>
-
-        <div class="armArmor">
-
-            <table>
-                <tr>
-                    <th>Name</th>
-                </tr>
-                <tr th:each="ArmArmor : ${lrArmArmor}">
-                    <td th:text="${ArmArmor.getName()}"></td>
-                    <td th:text="${ArmArmor.getDefense()}"></td>
-                </tr>
-            </table>
-
-        </div>
-
-        <div class="bodyArmor">
-
-            <!-- Preview Block (shows selected armor) -->
-            <div id="bodyArmorPreview" onclick="showBodyArmorDropdown()" style="cursor: pointer;">
-                <table style="width: 100%;">
-                    <thead>
-                    <tr>
-                        <th>Name</th>
-                        <th>Defense</th>
-                        <th>Skills</th>
-                        <th>Resistances</th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    <tr id="selected-bodyarmor-row"><td colspan="3">Click to select body armor</td></tr>
-                    </tbody>
-                </table>
-            </div>
-
-            <!-- Dropdown Selection Block (hidden by default) -->
-            <div id="bodyArmorDropdown" style="display: none; margin-top: 10px;">
-
-
-                <table id="bodyArmorTable" class="display" style="width: 100%;">
-                    <thead>
-                    <tr>
-                        <th>Name</th>
-                        <th>Defense</th>
-                        <th>Skills</th>
-                        <th>Resistances</th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    <tr th:each="bodyArmor : ${lrBodyArmor}" onclick="selectBodyArmor(this)">
-                        <td th:text="${bodyArmor.getName()}"></td>
-                        <td th:text="${bodyArmor.getDefense()}"></td>
-                        <td th:text="${bodyArmor.printSkills()}"></td>
-                        <td class="bodyResistances">
-                            <div th:each="entry : ${bodyArmor.getResistances()}">
-                                <span th:with="elementName=${entry.key}">
-                                    <img th:src="@{../images/} + ${elementName} + '.png'"
-                                         th:alt="${elementName} + ':'"
-                                         class="elementIcon" />
-                                    <span th:text="${entry.value}" class="bodyResistanceValue"></span>
-                                </span>
-                            </div>
-                        </td>
-                    </tr>
-                    </tbody>
-                </table>
-            </div>
-
-        </div>
-
-
-        <div class="waistArmor">
-
-            <table>
-                <tr>
-                    <th>Name</th>
-                </tr>
-                <tr th:each="waistArmor : ${lrWaistArmor}">
-                    <td th:text="${waistArmor.getName()}"></td>
-                    <td th:text="${waistArmor.getDefense()}"></td>
-                </tr>
-            </table>
-
-        </div>
-
-        <div class="legArmor">
-
-            <table>
-                <tr>
-                    <th>Name</th>
-                </tr>
-                <tr th:each="legArmor : ${lrLegArmor}">
-                    <td th:text="${legArmor.getName()}"></td>
-                    <td th:text="${legArmor.getDefense()}"></td>
-                </tr>
-            </table>
-
-        </div>
-
-        <div class="overallArmor">
-
-            <ul id="output"></ul>
-
-        </div>
-
-        <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-        <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
-
-        <script>
-            function showBodyArmorDropdown() {
-                document.getElementById("bodyArmorPreview").style.display = "none";
-                document.getElementById("bodyArmorDropdown").style.display = "block";
-            }
-
-            function selectBodyArmor(row) {
-                const cells = row.getElementsByTagName("td");
-                const name = cells[0].innerText;
-                const defense = cells[1].innerText;
-                const skills = cells[2].innerText;
-                const resistances = cells[3].innerHTML;
-
-                document.getElementById("selected-bodyarmor-row").innerHTML = `
-        <td>${name}</td>
-        <td>${defense}</td>
-        <td>${skills}</td>
-        ${resistances}
-    `;
-
-                // Hide dropdown and show preview again
-                document.getElementById("bodyArmorDropdown").style.display = "none";
-                document.getElementById("bodyArmorPreview").style.display = "block";
-            }
-
-            $(document).ready(function () {
-                // Set up DataTables, but we disable built-in search
-                const table = $('#bodyArmorTable').DataTable({
-                    paging: false,
-                    lengthChange: false,
-                    searching: true,
-                    ordering: false,
-                    info: false,
-                    autoWidth: false
-                });
-
-                // Connect input to live search
-                $('#bodyArmorSearch').on('keyup', function () {
-                    table.search(this.value).draw();
-                });
-            });
-        </script>
-
-
-    </body>
-    
+<div class="overallArmor">
+    <ul id="output"></ul>
+</div>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script th:src="@{/scripts/dropdown.js}"></script>
+</body>
 </html>
