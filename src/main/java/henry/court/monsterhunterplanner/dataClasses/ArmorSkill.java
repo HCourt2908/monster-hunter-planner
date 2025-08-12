@@ -1,7 +1,11 @@
 package henry.court.monsterhunterplanner.dataClasses;
 
 import henry.court.monsterhunterplanner.jsonProcessing.Skill;
+import lombok.Getter;
+import lombok.Setter;
 
+@Getter
+@Setter
 public class ArmorSkill {
 
     public Skill skill;

@@ -16,6 +16,7 @@ function showDropdown(previewElement) {
 function selectArmor(row) {
     // Read the armor part name from the data attribute
     const armorPartName = row.dataset.armorPartName;
+    const armorSkills = row.dataset.armorSkills;
 
     const cells = row.getElementsByTagName("td");
     const name = cells[0].innerText;
@@ -23,12 +24,15 @@ function selectArmor(row) {
     const skills = cells[2].innerText;
     const resistances = cells[3].innerHTML;
 
+    const parsedSkills = handleSkills(armorSkills);
     const parsedResistances = handleResistances(resistances);
+
+    console.log(parsedSkills);
 
     selectedArmor[armorPartName] = {
         name: name,
         defense: defense,
-        skills: skills,
+        skills: parsedSkills,
         resistances: parsedResistances,
     };
 
@@ -44,6 +48,16 @@ function selectArmor(row) {
 
     updateOverallStats();
 
+}
+
+function handleSkills(armorSkillsJSON) {
+    const armorSkills = JSON.parse(armorSkillsJSON);
+
+    return armorSkills.map(item => ({
+        name: item.skill.name,
+        level: item.level,
+        max: item.skill.max
+    }));
 }
 
 function handleResistances(resistances) {
@@ -72,6 +86,7 @@ function updateOverallStats() {
     let iceRes = 0;
     let thunderRes = 0;
     let dragonRes = 0;
+    let overallSkills = {};
 
     for (const part in selectedArmor) {
 
@@ -89,9 +104,23 @@ function updateOverallStats() {
             thunderRes += parseInt(selectedArmor[part].resistances["thunder"]);
             dragonRes += parseInt(selectedArmor[part].resistances["dragon"]);
         }
+
+        if (selectedArmor[part]) {
+            for (const skill of selectedArmor[part].skills) {
+                if (overallSkills[skill.name] === undefined) {
+                    overallSkills[skill.name] = {level: skill.level};
+                } else {
+                    overallSkills[skill.name].level = Math.min(overallSkills[skill.name].level + skill.level, skill.max);
+                }
+            }
+        }
     }
 
-    console.log(fireRes);
+    let skillsHTML = "";
+    for (const skillName in overallSkills) {
+        const skill = overallSkills[skillName];
+        skillsHTML += `<p>${skillName} Lv ${skill.level}</p>`;
+    }
 
     document.getElementById("overallArmor").innerHTML = `
     <h1>Total Defense: ${totalDefense}</h1>
@@ -105,6 +134,7 @@ function updateOverallStats() {
     <h1>${thunderRes}</h1>
     <img src="/images/dragon.png" alt="fire:"/>
     <h1>${dragonRes}</h1>
+    ${skillsHTML}
     `;
 }
 

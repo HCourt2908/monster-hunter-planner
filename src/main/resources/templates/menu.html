@@ -8,11 +8,11 @@
 <body>
 <div class="background"></div>
 
-<div th:replace="~{armorPart :: armorPart('head', ${lrHeadArmor}, 'headArmor')}"></div>
-<div th:replace="~{armorPart :: armorPart('arm', ${lrArmArmor}, 'armArmor')}"></div>
-<div th:replace="~{armorPart :: armorPart('body', ${lrBodyArmor}, 'bodyArmor')}"></div>
-<div th:replace="~{armorPart :: armorPart('waist', ${lrWaistArmor}, 'waistArmor')}"></div>
-<div th:replace="~{armorPart :: armorPart('leg', ${lrLegArmor}, 'legArmor')}"></div>
+<div th:replace="~{armorPart :: armorPart('head', ${lrHeadArmor}, 'headArmor', ${lrHeadJSONMap})}"></div>
+<div th:replace="~{armorPart :: armorPart('arm', ${lrArmArmor}, 'armArmor', ${lrArmJSONMap})}"></div>
+<div th:replace="~{armorPart :: armorPart('body', ${lrBodyArmor}, 'bodyArmor', ${lrBodyJSONMap})}"></div>
+<div th:replace="~{armorPart :: armorPart('waist', ${lrWaistArmor}, 'waistArmor', ${lrWaistJSONMap})}"></div>
+<div th:replace="~{armorPart :: armorPart('leg', ${lrLegArmor}, 'legArmor', ${lrLegJSONMap})}"></div>
 
 <div id="overallArmor"></div>
 

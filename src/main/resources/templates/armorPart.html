@@ -1,4 +1,4 @@
-<div th:fragment="armorPart(armorPartName, armorList, partClass)" class="armor-part" th:classappend="${partClass}">
+<div th:fragment="armorPart(armorPartName, armorList, partClass, armorSkillsJsonMap)" class="armor-part" th:classappend="${partClass}">
   <div th:id="${armorPartName} + 'Preview'" onclick="showDropdown(this)" style="cursor: pointer;">
     <table>
       <thead>
@@ -25,7 +25,10 @@
       </tr>
       </thead>
       <tbody>
-      <tr th:each="armorItem : ${armorList}" th:data-armor-part-name="${armorPartName}" onclick="selectArmor(this)">
+      <tr th:each="armorItem : ${armorList}"
+          th:data-armor-part-name="${armorPartName}"
+          th:data-armor-skills="${armorSkillsJsonMap[armorItem.getIndex()]}"
+          onclick="selectArmor(this)">
         <td th:text="${armorItem.getName()}"></td>
         <td th:text="${armorItem.getDefense()}"></td>
         <td th:text="${armorItem.printSkills()}"></td>
