@@ -1,446 +1,113 @@
 [
-  {
-    "id": "000",
-    "name": "Attack Boost"
-  },
-  {
-    "id": "001",
-    "name": "Agitator"
-  },
-  {
-    "id": "002",
-    "name": "Peak Performance"
-  },
-  {
-    "id": "003",
-    "name": "Resentment"
-  },
-  {
-    "id": "004",
-    "name": "Resuscitate"
-  },
-  {
-    "id": "005",
-    "name": "Critical Eye"
-  },
-  {
-    "id": "006",
-    "name": "Critical Boost"
-  },
-  {
-    "id": "007",
-    "name": "Weakness Exploit"
-  },
-  {
-    "id": "008",
-    "name": "Latent Power"
-  },
-  {
-    "id": "009",
-    "name": "Maximum Might"
-  },
-  {
-    "id": "010",
-    "name": "Critical Element"
-  },
-  {
-    "id": "011",
-    "name": "Master's Touch"
-  },
-  {
-    "id": "012",
-    "name": "Fire Attack"
-  },
-  {
-    "id": "013",
-    "name": "Water Attack"
-  },
-  {
-    "id": "014",
-    "name": "Ice Attack"
-  },
-  {
-    "id": "015",
-    "name": "Thunder Attack"
-  },
-  {
-    "id": "016",
-    "name": "Dragon Attack"
-  },
-  {
-    "id": "017",
-    "name": "Poison Attack"
-  },
-  {
-    "id": "018",
-    "name": "Paralysis Attack"
-  },
-  {
-    "id": "019",
-    "name": "Sleep Attack"
-  },
-  {
-    "id": "020",
-    "name": "Blast Attack"
-  },
-  {
-    "id": "021",
-    "name": "Handicraft"
-  },
-  {
-    "id": "022",
-    "name": "Razor Sharp"
-  },
-  {
-    "id": "023",
-    "name": "Spare Shot"
-  },
-  {
-    "id": "024",
-    "name": "Protective Polish"
-  },
-  {
-    "id": "025",
-    "name": "Mind's Eye"
-  },
-  {
-    "id": "026",
-    "name": "Ballistics"
-  },
-  {
-    "id": "027",
-    "name": "Bludgeoner"
-  },
-  {
-    "id": "028",
-    "name": "Bow Charge Plus"
-  },
-  {
-    "id": "029",
-    "name": "Focus"
-  },
-  {
-    "id": "030",
-    "name": "Power Prolonger"
-  },
-  {
-    "id": "031",
-    "name": "Marathon Runner"
-  },
-  {
-    "id": "032",
-    "name": "Constitution"
-  },
-  {
-    "id": "033",
-    "name": "Stamina Surge"
-  },
-  {
-    "id": "034",
-    "name": "Guard"
-  },
-  {
-    "id": "035",
-    "name": "Guard Up"
-  },
-  {
-    "id": "036",
-    "name": "Offensive Guard"
-  },
-  {
-    "id": "037",
-    "name": "Critical Draw"
-  },
-  {
-    "id": "038",
-    "name": "Punishing Draw"
-  },
-  {
-    "id": "039",
-    "name": "Quick Sheathe"
-  },
-  {
-    "id": "040",
-    "name": "Slugger"
-  },
-  {
-    "id": "041",
-    "name": "Stamina Thief"
-  },
-  {
-    "id": "042",
-    "name": "Affinity Sliding"
-  },
-  {
-    "id": "043",
-    "name": "Horn Maestro"
-  },
-  {
-    "id": "044",
-    "name": "Artillery"
-  },
-  {
-    "id": "045",
-    "name": "Load Shells"
-  },
-  {
-    "id": "046",
-    "name": "Special Ammo Boost"
-  },
-  {
-    "id": "047",
-    "name": "Normal/Rapid Up"
-  },
-  {
-    "id": "048",
-    "name": "Pierce Up"
-  },
-  {
-    "id": "049",
-    "name": "Spread Up"
-  },
-  {
-    "id": "050",
-    "name": "Ammo Up"
-  },
-  {
-    "id": "051",
-    "name": "Reload Speed"
-  },
-  {
-    "id": "052",
-    "name": "Recoil Down"
-  },
-  {
-    "id": "053",
-    "name": "Steadiness"
-  },
-  {
-    "id": "054",
-    "name": "Rapid Fire Up"
-  },
-  {
-    "id": "055",
-    "name": "Defense Boost"
-  },
-  {
-    "id": "056",
-    "name": "Divine Blessing"
-  },
-  {
-    "id": "057",
-    "name": "Recovery Up"
-  },
-  {
-    "id": "058",
-    "name": "Recovery Speed"
-  },
-  {
-    "id": "059",
-    "name": "Speed Eating"
-  },
-  {
-    "id": "060",
-    "name": "Earplugs"
-  },
-  {
-    "id": "061",
-    "name": "Windproof"
-  },
-  {
-    "id": "062",
-    "name": "Tremor Resistance"
-  },
-  {
-    "id": "063",
-    "name": "Bubbly Dance"
-  },
-  {
-    "id": "064",
-    "name": "Evade Window"
-  },
-  {
-    "id": "065",
-    "name": "Evade Extender"
-  },
-  {
-    "id": "066",
-    "name": "Fire Resistance"
-  },
-  {
-    "id": "067",
-    "name": "Water Resistance"
-  },
-  {
-    "id": "068",
-    "name": "Ice Resistance"
-  },
-  {
-    "id": "069",
-    "name": "Thunder Resistance"
-  },
-  {
-    "id": "070",
-    "name": "Dragon Resistance"
-  },
-  {
-    "id": "071",
-    "name": "Blight Resistance"
-  },
-  {
-    "id": "072",
-    "name": "Poison Resistance"
-  },
-  {
-    "id": "073",
-    "name": "Paralysis Resistance"
-  },
-  {
-    "id": "074",
-    "name": "Sleep Resistance"
-  },
-  {
-    "id": "075",
-    "name": "Stun Resistance"
-  },
-  {
-    "id": "076",
-    "name": "Muck Resistance"
-  },
-  {
-    "id": "077",
-    "name": "Blast Resistance"
-  },
-  {
-    "id": "078",
-    "name": "Botanist"
-  },
-  {
-    "id": "079",
-    "name": "Geologist"
-  },
-  {
-    "id": "080",
-    "name": "Partbreaker"
-  },
-  {
-    "id": "081",
-    "name": "Capture Master"
-  },
-  {
-    "id": "082",
-    "name": "Carving Master"
-  },
-  {
-    "id": "083",
-    "name": "Good Luck"
-  },
-  {
-    "id": "084",
-    "name": "Speed Sharpening"
-  },
-  {
-    "id": "085",
-    "name": "Bombardier"
-  },
-  {
-    "id": "086",
-    "name": "Mushroomancer"
-  },
-  {
-    "id": "087",
-    "name": "Item Prolonger"
-  },
-  {
-    "id": "088",
-    "name": "Wide-Range"
-  },
-  {
-    "id": "089",
-    "name": "Free Meal"
-  },
-  {
-    "id": "090",
-    "name": "Heroics"
-  },
-  {
-    "id": "091",
-    "name": "Fortify"
-  },
-  {
-    "id": "092",
-    "name": "Flinch Free"
-  },
-  {
-    "id": "093",
-    "name": "Jump Master"
-  },
-  {
-    "id": "094",
-    "name": "Carving Pro"
-  },
-  {
-    "id": "095",
-    "name": "Hunger Resistance"
-  },
-  {
-    "id": "096",
-    "name": "Leap of Faith"
-  },
-  {
-    "id": "097",
-    "name": "Diversion"
-  },
-  {
-    "id": "098",
-    "name": "Master Mounter"
-  },
-  {
-    "id": "099",
-    "name": "Chameleos Blessing"
-  },
-  {
-    "id": "100",
-    "name": "Kushala Blessing"
-  },
-  {
-    "id": "101",
-    "name": "Teostra Blessing"
-  },
-  {
-    "id": "102",
-    "name": "Dragonheart"
-  },
-  {
-    "id": "103",
-    "name": "Wirebug Whisperer"
-  },
-  {
-    "id": "104",
-    "name": "Wall Runner"
-  },
-  {
-    "id": "105",
-    "name": "Counterstrike"
-  },
-  {
-    "id": "106",
-    "name": "Rapid Morph"
-  },
-  {
-    "id": "107",
-    "name": "Hellfire Cloak"
-  },
-  {
-    "id": "108",
-    "name": "Wind Alignment"
-  },
-  {
-    "id": "109",
-    "name": "Thunder Alignment"
-  },
-  {
-    "id": "110",
-    "name": "Stormsoul"
-  }
+  { "id": "000", "name": "Attack Boost", "max": 7 },
+  { "id": "001", "name": "Agitator", "max": 5 },
+  { "id": "002", "name": "Peak Performance", "max": 3 },
+  { "id": "003", "name": "Resentment", "max": 5 },
+  { "id": "004", "name": "Resuscitate", "max": 3 },
+  { "id": "005", "name": "Critical Eye", "max": 7 },
+  { "id": "006", "name": "Critical Boost", "max": 3 },
+  { "id": "007", "name": "Weakness Exploit", "max": 3 },
+  { "id": "008", "name": "Latent Power", "max": 5 },
+  { "id": "009", "name": "Maximum Might", "max": 3 },
+  { "id": "010", "name": "Critical Element", "max": 3 },
+  { "id": "011", "name": "Master's Touch", "max": 3 },
+  { "id": "012", "name": "Fire Attack", "max": 5 },
+  { "id": "013", "name": "Water Attack", "max": 5 },
+  { "id": "014", "name": "Ice Attack", "max": 5 },
+  { "id": "015", "name": "Thunder Attack", "max": 5 },
+  { "id": "016", "name": "Dragon Attack", "max": 5 },
+  { "id": "017", "name": "Poison Attack", "max": 3 },
+  { "id": "018", "name": "Paralysis Attack", "max": 3 },
+  { "id": "019", "name": "Sleep Attack", "max": 3 },
+  { "id": "020", "name": "Blast Attack", "max": 3 },
+  { "id": "021", "name": "Handicraft", "max": 5 },
+  { "id": "022", "name": "Razor Sharp", "max": 3 },
+  { "id": "023", "name": "Spare Shot", "max": 3 },
+  { "id": "024", "name": "Protective Polish", "max": 3 },
+  { "id": "025", "name": "Mind's Eye", "max": 3 },
+  { "id": "026", "name": "Ballistics", "max": 3 },
+  { "id": "027", "name": "Bludgeoner", "max": 3 },
+  { "id": "028", "name": "Bow Charge Plus", "max": 1 },
+  { "id": "029", "name": "Focus", "max": 3 },
+  { "id": "030", "name": "Power Prolonger", "max": 3 },
+  { "id": "031", "name": "Marathon Runner", "max": 3 },
+  { "id": "032", "name": "Constitution", "max": 5 },
+  { "id": "033", "name": "Stamina Surge", "max": 3 },
+  { "id": "034", "name": "Guard", "max": 5 },
+  { "id": "035", "name": "Guard Up", "max": 3 },
+  { "id": "036", "name": "Offensive Guard", "max": 3 },
+  { "id": "037", "name": "Critical Draw", "max": 3 },
+  { "id": "038", "name": "Punishing Draw", "max": 3 },
+  { "id": "039", "name": "Quick Sheathe", "max": 3 },
+  { "id": "040", "name": "Slugger", "max": 3 },
+  { "id": "041", "name": "Stamina Thief", "max": 3 },
+  { "id": "042", "name": "Affinity Sliding", "max": 1 },
+  { "id": "043", "name": "Horn Maestro", "max": 1 },
+  { "id": "044", "name": "Artillery", "max": 3 },
+  { "id": "045", "name": "Load Shells", "max": 2 },
+  { "id": "046", "name": "Special Ammo Boost", "max": 2 },
+  { "id": "047", "name": "Normal/Rapid Up", "max": 3 },
+  { "id": "048", "name": "Pierce Up", "max": 3 },
+  { "id": "049", "name": "Spread Up", "max": 3 },
+  { "id": "050", "name": "Ammo Up", "max": 3 },
+  { "id": "051", "name": "Reload Speed", "max": 3 },
+  { "id": "052", "name": "Recoil Down", "max": 3 },
+  { "id": "053", "name": "Steadiness", "max": 2 },
+  { "id": "054", "name": "Rapid Fire Up", "max": 3 },
+  { "id": "055", "name": "Defense Boost", "max": 7 },
+  { "id": "056", "name": "Divine Blessing", "max": 3 },
+  { "id": "057", "name": "Recovery Up", "max": 3 },
+  { "id": "058", "name": "Recovery Speed", "max": 3 },
+  { "id": "059", "name": "Speed Eating", "max": 3 },
+  { "id": "060", "name": "Earplugs", "max": 5 },
+  { "id": "061", "name": "Windproof", "max": 3 },
+  { "id": "062", "name": "Tremor Resistance", "max": 3 },
+  { "id": "063", "name": "Bubbly Dance", "max": 3 },
+  { "id": "064", "name": "Evade Window", "max": 5 },
+  { "id": "065", "name": "Evade Extender", "max": 3 },
+  { "id": "066", "name": "Fire Resistance", "max": 3 },
+  { "id": "067", "name": "Water Resistance", "max": 3 },
+  { "id": "068", "name": "Ice Resistance", "max": 3 },
+  { "id": "069", "name": "Thunder Resistance", "max": 3 },
+  { "id": "070", "name": "Dragon Resistance", "max": 3 },
+  { "id": "071", "name": "Blight Resistance", "max": 3 },
+  { "id": "072", "name": "Poison Resistance", "max": 3 },
+  { "id": "073", "name": "Paralysis Resistance", "max": 3 },
+  { "id": "074", "name": "Sleep Resistance", "max": 3 },
+  { "id": "075", "name": "Stun Resistance", "max": 3 },
+  { "id": "076", "name": "Muck Resistance", "max": 2 },
+  { "id": "077", "name": "Blast Resistance", "max": 3 },
+  { "id": "078", "name": "Botanist", "max": 4 },
+  { "id": "079", "name": "Geologist", "max": 3 },
+  { "id": "080", "name": "Partbreaker", "max": 3 },
+  { "id": "081", "name": "Capture Master", "max": 1 },
+  { "id": "082", "name": "Carving Master", "max": 1 },
+  { "id": "083", "name": "Good Luck", "max": 3 },
+  { "id": "084", "name": "Speed Sharpening", "max": 3 },
+  { "id": "085", "name": "Bombardier", "max": 3 },
+  { "id": "086", "name": "Mushroomancer", "max": 3 },
+  { "id": "087", "name": "Item Prolonger", "max": 3 },
+  { "id": "088", "name": "Wide-Range", "max": 5 },
+  { "id": "089", "name": "Free Meal", "max": 3 },
+  { "id": "090", "name": "Heroics", "max": 5 },
+  { "id": "091", "name": "Fortify", "max": 1 },
+  { "id": "092", "name": "Flinch Free", "max": 3 },
+  { "id": "093", "name": "Jump Master", "max": 1 },
+  { "id": "094", "name": "Carving Pro", "max": 1 },
+  { "id": "095", "name": "Hunger Resistance", "max": 3 },
+  { "id": "096", "name": "Leap of Faith", "max": 1 },
+  { "id": "097", "name": "Diversion", "max": 1 },
+  { "id": "098", "name": "Master Mounter", "max": 1 },
+  { "id": "099", "name": "Chameleos Blessing", "max": 4 },
+  { "id": "100", "name": "Kushala Blessing", "max": 4 },
+  { "id": "101", "name": "Teostra Blessing", "max": 4 },
+  { "id": "102", "name": "Dragonheart", "max": 5 },
+  { "id": "103", "name": "Wirebug Whisperer", "max": 3 },
+  { "id": "104", "name": "Wall Runner", "max": 3 },
+  { "id": "105", "name": "Counterstrike", "max": 3 },
+  { "id": "106", "name": "Rapid Morph", "max": 3 },
+  { "id": "107", "name": "Hellfire Cloak", "max": 4 },
+  { "id": "108", "name": "Wind Alignment", "max": 5 },
+  { "id": "109", "name": "Thunder Alignment", "max": 5 },
+  { "id": "110", "name": "Stormsoul", "max": 5 }
 ]

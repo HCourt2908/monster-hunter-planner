@@ -1,38 +1,29 @@
 package henry.court.monsterhunterplanner.jsonProcessing;
 
+import lombok.Getter;
+import lombok.Setter;
+
+@Setter
+@Getter
 public class Skill {
 
     public int id;
     public String name;
+    public int max;
 
-    public Skill(int id, String name) {
+    public Skill(int id, String name, int max) {
         this.id = id;
         this.name = name;
+        this.max = max;
     }
 
     public Skill() {
 
     }
 
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
     @Override
     public String toString() {
-        return "Skill [id=" + id + ", name=" + name + "]";
+        return "Skill [id=" + id + ", name=" + name + ", max=" + max + "]";
     }
 
 

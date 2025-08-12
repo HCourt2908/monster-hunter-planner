@@ -14,9 +14,8 @@
 <div th:replace="~{armorPart :: armorPart('waist', ${lrWaistArmor}, 'waistArmor')}"></div>
 <div th:replace="~{armorPart :: armorPart('leg', ${lrLegArmor}, 'legArmor')}"></div>
 
-<div class="overallArmor">
-    <ul id="output"></ul>
-</div>
+<div id="overallArmor"></div>
+
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
 <script th:src="@{/scripts/dropdown.js}"></script>

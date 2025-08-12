@@ -7,7 +7,7 @@ body {
   background-image: url('../images/background.jpg');
 }
 
-.armor-part, .overallArmor {
+.armor-part, #overallArmor {
   width: 93.75vw;
   height: 15vh;
   background-color: #d1d1d1;
@@ -20,6 +20,7 @@ body {
   overflow: auto;
   scrollbar-color: #3d3d3d #5a5a5a;
   scrollbar-width: thin;
+  display: flex;
 }
 
 /* Specific positioning for each part */
@@ -28,7 +29,7 @@ body {
 .bodyArmor { top: 33.75vh; }
 .waistArmor { top: 48.75vh; }
 .legArmor { top: 63.75vh; }
-.overallArmor { top: 82.5vh; }
+#overallArmor { top: 82.5vh; }
 
 /* Scrollbar styles for all armor parts */
 .armor-part::-webkit-scrollbar { width: 10px; }
@@ -63,6 +64,10 @@ body {
   padding: 4px;
   border: 1px solid #ccc;
   text-align: left;
+}
+
+div[id$='Preview'] {
+  margin: auto;
 }
 
 /* Styles for the dropdown tables */
