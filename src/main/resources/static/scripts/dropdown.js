@@ -122,18 +122,24 @@ function updateOverallStats() {
         skillsHTML += `<p>${skillName} Lv ${skill.level}</p>`;
     }
 
-    document.getElementById("overallArmor").innerHTML = `
-    <h1>Total Defense: ${totalDefense}</h1>
-    <img src="/images/fire.png" alt="fire:"/>
-    <h1>${fireRes}</h1>
-    <img src="/images/water.png" alt="fire:"/>
-    <h1>${waterRes}</h1>
-    <img src="/images/ice.png" alt="fire:"/>
-    <h1>${iceRes}</h1>
-    <img src="/images/thunder.png" alt="fire:"/>
-    <h1>${thunderRes}</h1>
-    <img src="/images/dragon.png" alt="fire:"/>
-    <h1>${dragonRes}</h1>
+    document.getElementById("totalDef").innerHTML = `
+    <h2>${totalDefense}</h2>
+    `;
+
+    document.getElementById("totalRes").innerHTML = `
+    <img src="/images/fire.png" alt="fire:" class="overallIcons"/>
+    ${fireRes}
+    <img src="/images/water.png" alt="water:" class="overallIcons"/>
+    ${waterRes}
+    <img src="/images/ice.png" alt="ice:" class="overallIcons"/>
+    ${iceRes}
+    <img src="/images/thunder.png" alt="thunder:" class="overallIcons"/>
+    ${thunderRes}
+    <img src="/images/dragon.png" alt="dragon:" class="overallIcons"/>
+    ${dragonRes}
+    `;
+
+    document.getElementById("skillsScroll").innerHTML = `
     ${skillsHTML}
     `;
 }

@@ -14,7 +14,24 @@
 <div th:replace="~{armorPart :: armorPart('waist', ${lrWaistArmor}, 'waistArmor', ${lrWaistJSONMap})}"></div>
 <div th:replace="~{armorPart :: armorPart('leg', ${lrLegArmor}, 'legArmor', ${lrLegJSONMap})}"></div>
 
-<div id="overallArmor"></div>
+<div id="overallArmor">
+    <table th:id="overallTable">
+        <thead>
+        <th>Total Defense</th>
+        <th>Total Resistances</th>
+        <th>Skills</th>
+        </thead>
+        <tbody>
+        <tr>
+            <td id="totalDef"></td>
+            <td id="totalRes"></td>
+            <td id="totalSkills">
+                <div id="skillsScroll"></div>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</div>
 
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>

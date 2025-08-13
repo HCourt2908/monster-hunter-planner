@@ -17,10 +17,19 @@ body {
   opacity: 1;
   position: absolute;
   left: 3.125vw;
-  overflow: auto;
   scrollbar-color: #3d3d3d #5a5a5a;
   scrollbar-width: thin;
   display: flex;
+}
+
+.armor-part {
+  overflow:auto;
+}
+
+.overallIcons {
+  width:4vw;
+  height:4vw;
+  vertical-align: middle;
 }
 
 /* Specific positioning for each part */
@@ -40,6 +49,20 @@ body {
   border: 2px solid #5a5a5a;
 }
 
+#totalDef h2{
+  text-align: center;
+}
+
+td#totalRes{
+  font-weight: bold;
+}
+
+#skillsScroll {
+  overflow: auto;
+  max-height: 12vh;
+  text-align: center;
+}
+
 .elementIcon {
   width: 1.75vh;
   height: 1.75vh;
@@ -53,7 +76,7 @@ body {
 }
 
 /* Generic styles for the tables inside the fragment */
-.armor-part table {
+.armor-part table, #overallTable {
   table-layout: fixed;
   width: 100%;
   border-collapse: collapse;
